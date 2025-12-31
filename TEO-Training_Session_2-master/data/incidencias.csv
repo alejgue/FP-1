@@ -1,0 +1,10 @@
+id_envio,tipo,descripcion,dias_retraso,compensacion
+E001,Demora,"Tráfico denso en AP-2",1,50
+E003,Dano,"Caja exterior golpeada",0,120
+E004,Demora,"Control adicional en aduana",2,200
+E005,Dano,"Humedad detectada en contenedor",3,300
+E007,Demora,"Avería del camión refrigerado",2,180
+E008,Demora,"Temporal en el mar del Norte",4,400
+E009,Perdida,"Bulto extraviado parcial",5,600
+E012,Demora,"Retraso en pista de despegue",1,80
+E013,Dano,"Contenedor desplazado durante vuelo",1,150
