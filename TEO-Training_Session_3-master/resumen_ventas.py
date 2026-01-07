@@ -4,12 +4,32 @@ from __future__ import annotations
 
 from datetime import date
 from pathlib import Path
-
+import csv
 
 def resumen_ventas(path: Path) -> tuple[int, float]:
     """Lee el CSV y devuelve (total_registros_validos, promedio)."""
-    raise NotImplementedError
+    
+    if not path.exists():
+        raise FileNotFoundError("El archivo no existe")
+    with path.open('r', encoding="utf-8") as fichero:
+        lector = csv.reader(fichero)
+        next(lector)
 
+        total_registros_validos = 0
+        total_ventas = 0.0
+
+        for linea in lector:
+            if not linea:
+                continue
+            total_registros_validos += 1 
+            total_ventas += float(linea[1])
+
+        if total_registros_validos == "0":
+            raise ValueError("No Hay registros validos")
+
+        promedio = total_ventas / total_registros_validos
+
+    return (total_registros_validos, promedio)
 
 def top_ventas(path: Path, n: int = 3) -> list[tuple[date, int]]:
     """Top-N de fechas con mayores ventas. Empata por fecha más reciente."""

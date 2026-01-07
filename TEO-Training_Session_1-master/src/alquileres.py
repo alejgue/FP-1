@@ -24,10 +24,13 @@ def parse_fecha(cadena: str) -> date:
 
 def lee_alquileres(ruta: str) -> list[Alquiler]:
     """Lee el CSV y devuelve una lista de Alquiler."""
+    
     alquileres = []
+    
     with open(ruta, "r", encoding="utf-8") as fichero:
        lector = csv.reader(fichero)
        next(lector)
+
        for linea in lector:
         alquileres.append(Alquiler(
                 nombre=linea[0],
@@ -39,6 +42,7 @@ def lee_alquileres(ruta: str) -> list[Alquiler]:
                 precio_dia=float(linea[6]),
                 servicios=linea[7].split(",")
             ))
+        
     return alquileres
 
 def total_facturado(
@@ -79,11 +83,13 @@ def alquileres_mas_largos(
     n: int = 3,
 ) -> list[tuple[str, date]]:
     """Top-N de alquileres más largos (nombre, fecha_inicio). Ordenados mayor a menor"""
+   
     ordenadas = sorted(
         alquileres,
         key=lambda a: (a.fecha_fin - a.fecha_inicio).days,
         reverse=True
     )
+    
     return [(r.nombre, r.fecha_inicio) for r in ordenadas[:n]]
 
 
@@ -159,8 +165,8 @@ def media_dias_entre_alquileres(alquileres: list[Alquiler]) -> float:
         actual = alquileres_ordenados[i].fecha_inicio
         anterior = alquileres_ordenados[i-1].fecha_inicio
         
-        total_dias += (actual - anterior).days
-        total_huecos += 1
+        total_dias += (actual - anterior).days  #Dias entre el anterior alquiler hasta el actual
+        total_huecos += 1 #suma un hueco por cada alquiler actual y anterior
 
     return total_dias / total_huecos if total_huecos > 0 else 0.0
 

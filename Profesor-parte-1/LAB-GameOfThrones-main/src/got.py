@@ -1,6 +1,6 @@
-from typing import NamedTuple
-from pathlib import Path
 import csv
+from pathlib import Path
+from typing import NamedTuple, Counter
 
 BatallaGOT = NamedTuple('BatallaGOT',                         
                         [
@@ -16,75 +16,149 @@ BatallaGOT = NamedTuple('BatallaGOT',
                             ('num_atacados',int|None)
                         ])
 
-def lee_batallas(ruta:str) -> list[tuple]:
+def lee_batallas(ruta: Path) -> list[tuple]:
+    
     batallas = []
-    with open(ruta,"r", encoding="utf-8") as f:
-       lector = csv.reader(f)
-       next(lector)
-       for lineas in lector:
-           nombre, rey_atacante, rey_atacado, gana_atacante, muertes_principales, comandantes_atacantes, comandantes_atacados, region, num_atacantes, num_atacados = lineas
-           if num_atacantes is None or num_atacantes == '':
-                num_atacantes = 0
-           if num_atacados is None or num_atacados == '':
-                num_atacados = 0
-
-            #gana_atacante = gana_atacante.lower() == 'true' if isinstance(gana_atacante, str) else bool(gana_atacante)
-            #muertes_principales = muertes_principales.lower() == 'true' if isinstance(muertes_principales, str) else bool(muertes_principales)
-           batalla = BatallaGOT(
-                nombre = str(nombre),
-                rey_atacante = str(rey_atacante),
-                rey_atacado = str(rey_atacado),
-                gana_atacante = bool(gana_atacante),
-                muertes_principales = bool(muertes_principales),
-                comandantes_atacantes = comandantes_atacantes.strip(),
-                comandantes_atacados = comandantes_atacados.strip(),
-                region = str(region),
-                num_atacantes = int(num_atacantes),
-                num_atacados = int(num_atacados)
-              )
-           batallas.append(batalla)
+    
+    with open(ruta, 'r', encoding="UTF-8") as fichero:
+      lector = csv.reader(fichero)
+      next(lector)
+      
+      for linea in lector:
+         batallas.append(BatallaGOT (
+            nombre= linea[0],
+            rey_atacante= linea[1],
+            rey_atacado= linea[2],
+            gana_atacante= True if linea[3].lower() == "win" else False,
+            muertes_principales= bool(linea[4]),
+            comandantes_atacantes= linea[5].split(", ") if linea[5]  else [],
+            comandantes_atacados= linea[6].split(", ") if linea[6]  else [],
+            region = linea[7],
+            num_atacantes= int(linea[8]) if linea[8] else None,
+            num_atacados= int(linea[9]) if linea[9] else None
+         ))
+    
     return batallas
 
-def reyes_mayor_menor_ejercito(archivo:list[tuple] ) -> tuple[str, str]:
-    """
-    reyes_mayor_mener_ejerc = []
-    reyes = set()
-    reyes_con_ejercito = []
-    for linea in archivo:
-        reyes.add(linea.rey_atacante)
-        reyes.add(linea.rey_atacado)
-        for rey in reyes:
-            total = 0
-            if rey in linea.rey_atacante:
-                total += linea.num_atacantes
-            elif rey in linea.rey_atacado:
-                total += linea.num_atacados
-        reyes_con_ejercito.append(rey, total)
-    print(reyes_con_ejercito)
-    """
-    ejercitos_por_rey = {}
-    for linea in archivo:
-        # Sumar ejército del rey atacante
-        if linea.rey_atacante:
-            ejercitos_por_rey[linea.rey_atacante] = ejercitos_por_rey.get(linea.rey_atacante, 0) + linea.num_atacantes
+def reyes_mayor_menor_ejercito(batallas: list[BatallaGOT]) -> tuple[str, str]:
+    
+    diccionario = {}
 
-        # Sumar ejército del rey atacado
-        if linea.rey_atacado:
-            ejercitos_por_rey[linea.rey_atacado] = ejercitos_por_rey.get(linea.rey_atacado, 0) + linea.num_atacados
-                #dame el ejército actual de este rey, o 0 si aún no lo tiene en el diccionario
-        # Si no hay datos, devolvemos None
-        if not ejercitos_por_rey:
-            return (None, None)
+    for linea in batallas:
+      
+      atacante = linea.rey_atacante
+      ejercito_atacante = linea.num_atacantes
+      atacado = linea.rey_atacado
+      ejercito_atacado = linea.num_atacados
+      
+      if atacante not in diccionario:
+         diccionario[atacante] = 0
+      
+      if atacado not in diccionario:
+         diccionario[atacado] = 0
+      
+      diccionario[atacante] += ejercito_atacante or 0
+      diccionario[atacado] += ejercito_atacado or 0
 
-    # Buscar el rey con el mayor y menor ejército total
-    rey_mayor = max(ejercitos_por_rey, key=ejercitos_por_rey.get)
-    rey_menor = min(ejercitos_por_rey, key=ejercitos_por_rey.get)
+    nombre_rey_max = max(diccionario, key=diccionario.get)
+    nombre_rey_min = min(diccionario, key=diccionario.get)
 
-    return (rey_mayor, rey_menor)
+    return (f"rey mayor ejercito: {nombre_rey_max}", f"rey menor ejercito: {nombre_rey_min}")
+
+
+def batallas_mas_comandantes(batallas: list[BatallaGOT], regiones: set[str]| None = None, n: int| None = None) -> list[tuple[str, int]]:
+    
+    lista = list()
+
+    for linea in batallas:
+        
+        if regiones is None or linea.region in regiones:
+            total_comandantes = len(linea.comandantes_atacados) + len(linea.comandantes_atacantes)
+            tupla = (linea.nombre, total_comandantes)
+            lista.append(tupla)
+    
+    lista.sort(key=lambda a: a[1], reverse=True) #modifica directamente la lista original
+    return lista[:n]     
+
+    #Otra forma (crea otra lista)
+    #return sorted(lista, key=lambda a: a[1], reverse=True)[:n]
+
+
+def rey_mas_victorias(batallas: list[BatallaGOT], rol: str = "ambos") -> str | None:
+
+    roles_validos = ["atacante", "atacado", "ambos", None]
+    if rol not in roles_validos:
+        raise ValueError("Solo se admite 'atacante', 'atacado' o 'ambos'")
+
+    diccionario = {}
+
+    for batalla in batallas:
+      
+        if rol in ["atacante", "ambos", None]:
+            if batalla.gana_atacante is True and batalla.rey_atacante:
+                rey = batalla.rey_atacante
+                diccionario[rey] = diccionario.get(rey, 0) + 1
+        
+        if rol in ["atacado", "ambos", None]:
+            if batalla.gana_atacante is False and batalla.rey_atacado:
+                rey = batalla.rey_atacado
+                diccionario[rey] = diccionario.get(rey, 0) + 1
+
+    if not diccionario:
+        return None
+
+    return max(diccionario, key=diccionario.get)
+
+
+def rey_mas_victorias_por_region(batallas: list[BatallaGOT], rol: str = "ambos") -> dict[str, tuple[str, int]]:
+    
+    roles_validos = ["atacante", "atacado", "ambos", None]
+    if rol not in roles_validos:
+        raise ValueError("Solo se admite 'atacante', 'atacado' o 'ambos'")
+
+    diccionario = {}
+
+    for batalla in batallas:
+      
+        if rol in ["atacante", "ambos", None]:
+            if batalla.gana_atacante is True and batalla.rey_atacante:
+                rey, region = batalla.rey_atacante, batalla.region
+                
+                if region not in diccionario:
+                    diccionario[region] = Counter()
+
+                diccionario[region][rey] += 1
+
+        
+        if rol in ["atacado", "ambos", None]:
+            if batalla.gana_atacante is False and batalla.rey_atacado:
+                rey, region = batalla.rey_atacado, batalla.region
+                
+                if region not in diccionario:
+                    diccionario[region] = Counter()
+
+                diccionario[region][rey] += 1
+
+    if not diccionario:
+        return {}
+
+    resultado_final = {}
+
+    for region, conteo in diccionario.items():
+        top_winner_region = max(conteo, key= conteo.get)
+        resultado_final[region] = (top_winner_region, conteo[top_winner_region])
+ 
+    return resultado_final
+    
     
 def main():
-    ruta_archivo = "data//battles.csv"
-    archivo = lee_batallas(ruta_archivo)
-    print(reyes_mayor_menor_ejercito(archivo))
+    ruta = Path("Profesor-parte-1/LAB-GameOfThrones-main/data/battles.csv")
+    fichero = lee_batallas(ruta)
+    #print(reyes_mayor_menor_ejercito(fichero))
+    #print(batallas_mas_comandantes(fichero,None,3))
+    #print(rey_mas_victorias(fichero,"ambos"))
+    print(rey_mas_victorias_por_region(fichero,"ambos"))
+
+
 if __name__ == "__main__":
     main()

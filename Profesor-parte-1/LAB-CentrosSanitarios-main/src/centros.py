@@ -41,6 +41,20 @@ def leer_centros(path:str) -> list[CentroSanitario]:
             centros.append(centro)
     return centros
 
+    '''
+    Otra Forma para el for
+    for linea in lector:
+           lista.append(CentroSanitario(
+               nombre=linea[0],
+               localidad=linea[1],
+               ubicacion= Coordenadas(float(linea[2]), float(linea[3])),
+               estado=linea[4],
+               num_camas=int(linea[5]),
+               acceso_discapacitados=bool(linea[6]),
+               tiene_uci=bool(linea[7])
+           ))
+    '''
+
 def calcular_total_camas_centros_accesibles(centros: List[CentroSanitario]) -> int:
     '''
     recibe una lista de tuplas de tipo ```CentroSanitario``` 
