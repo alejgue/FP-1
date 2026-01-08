@@ -24,7 +24,7 @@ def resumen_ventas(path: Path) -> tuple[int, float]:
             total_registros_validos += 1 
             total_ventas += float(linea[1])
 
-        if total_registros_validos == "0":
+        if total_registros_validos == 0: # si pongo "0" es una CADENA 
             raise ValueError("No Hay registros validos")
 
         promedio = total_ventas / total_registros_validos
