@@ -1,0 +1,1001 @@
+﻿País,Fecha de estudio,Enfermedad,Categoría,Ratios,Rango edad,Género,Tipo de tratamiento,Coste medio tratamiento (USD),Disponibilidad de vacuna/tratamiento
+Rusia,14/07/2022,Cáncer,Respiratoria,9.99;85.21,0 - 18,Femenino,Vacunación,14498,S
+Francia,13/10/2024,Dengue,Infecciosa,8.86;51.89,61+,Masculino,Vacunación,1857,S
+Arabia Saudita,28/10/2021,Hipertensión,Genética,9.7;98.37,19 - 35,Femenino,Terapia,12147,S
+Italia,28/11/2024,Gripe,Cardiovascular,8.82;86.18,36 - 60,Femenino,Cirugía,46148,N
+Indonesia,02/03/2020,Zika,Neurológica,8.81;74.62,36 - 60,Masculino,Medicación,31443,N
+Francia,06/07/2021,Enfermedad de Parkinson,Crónica,8.8;66.02,36 - 60,Masculino,Medicación,29421,N
+Brasil,21/05/2021,Poliomielitis,Viral,8.75;66.7,0 - 18,Femenino,Vacunación,38293,N
+Rusia,03/11/2022,Asma,Autoinmune,8.66;58.7,0 - 18,Masculino,Cirugía,32284,S
+México,24/12/2020,Diabetes,Bacteriana,8.41;65.16,0 - 18,Femenino,Terapia,2304,N
+Korea del Sur,14/12/2024,Zika,Crónica,8.37;95.73,61+,Masculino,Vacunación,35218,N
+Italia,09/08/2021,Malaria,Bacteriana,8.13;62.3,36 - 60,Femenino,Medicación,4496,N
+Italia,18/02/2021,Hipertensión,Respiratoria,8;96.78,61+,Ambos,Cirugía,5447,N
+Canadá,24/09/2021,Gripe,Cardiovascular,7.99;75.27,35+,Femenino,Cirugía,5721,N
+India,01/01/2020,Gripe,Infecciosa,7.98;50.53,36 - 60,Femenino,Medicación,11539,N
+México,02/05/2024,Ébola,Genética,7.84;51.54,0 - 18,Ambos,Cirugía,38111,N
+Reino Unido,12/04/2021,Ébola,Respiratoria,7.83;56.24,0 - 18,Masculino,Medicación,21719,N
+Alemania,13/08/2023,Tuberculosis,Bacteriana,7.82;53.3,0 - 18,Masculino,Cirugía,8307,N
+Brasil,06/01/2021,Asma,Autoinmune,7.68;58.21,36 - 60,Masculino,Terapia,2091,S
+Turquía,13/03/2023,Cólera,Metabólica,7.59;90.49,0 - 18,Ambos,Terapia,39785,N
+México,19/04/2021,Cólera,Cardiovascular,7.17;66.73,36 - 60,Ambos,Medicación,23054,S
+Brasil,11/11/2021,Ébola,Genética,7.07;51.19,36 - 60,Femenino,Cirugía,5339,N
+India,30/09/2023,Dengue,Cardiovascular,7.06;67.93,20+,Masculino,Cirugía,24661,N
+Korea del Sur,27/07/2021,Dengue,Bacteriana,6.6;55.32,18+,Masculino,Medicación,26880,S
+Japón,13/11/2022,Malaria,Parasitaria,6.41;52.81,36 - 60,Ambos,Cirugía,17656,S
+Sudáfrica,25/08/2024,Dengue,Parasitaria,6.4;78.79,0 - 18,Masculino,Vacunación,5358,S
+Brasil,27/09/2020,Enfermedad de Alzheimer,Cardiovascular,5.65;67.06,36 - 60,Ambos,Medicación,37121,S
+EEUU,30/10/2024,Hepatitis,Autoinmune,5.56;76.05,0 - 18,Femenino,Medicación,15962,S
+Indonesia,10/04/2024,Hipertensión,Cardiovascular,5.12;52.07,36 - 60,Femenino,Vacunación,42710,N
+Korea del Sur,01/12/2020,Ébola,Neurológica,4.52;70.91,0 - 18,Masculino,Terapia,43975,S
+Italia,23/04/2023,Lepra,Metabólica,4.45;93.46,19 - 35,Ambos,Vacunación,30394,S
+Reino Unido,11/02/2022,Ébola,Neurológica,4.22;68.16,61+,Masculino,Cirugía,47202,N
+Nigeria,30/08/2023,Hipertensión,Respiratoria,4.21;75.32,0 - 18,Femenino,Cirugía,7804,N
+Arabia Saudita,07/11/2021,Poliomielitis,Cardiovascular,3.76;52.98,61+,Femenino,Terapia,10669,S
+Korea del Sur,28/06/2020,Zika,Genética,3.69;96.99,19 - 35,Ambos,Medicación,46982,N
+Brasil,25/05/2020,Sarampión,Genética,3.67;61.25,19 - 35,Masculino,Medicación,8339,N
+Italia,05/07/2020,Dengue,Parasitaria,3.59;56.73,36 - 60,Ambos,Vacunación,26092,S
+Rusia,11/04/2022,Enfermedad de Parkinson,Viral,3.58;79.59,35+,Masculino,Vacunación,11693,S
+Rusia,17/04/2023,Poliomielitis,Autoinmune,3.47;87.95,19 - 35,Masculino,Terapia,21165,N
+EEUU,04/08/2024,Hipertensión,Cardiovascular,3.1;86.29,0 - 18,Femenino,Medicación,16727,N
+Japón,18/06/2024,Hipertensión,Neurológica,2.73;86.82,61+,Femenino,Vacunación,23251,S
+Nigeria,26/03/2022,VIH/SIDA,Bacteriana,2.64;94.01,0 - 18,Masculino,Medicación,40851,S
+India,17/09/2021,Cólera,Parasitaria,2.62;80.49,36 - 60,Femenino,Terapia,31478,N
+India,16/04/2020,Dengue,Respiratoria,2.47;69.96,35+,Ambos,Cirugía,29943,N
+Korea del Sur,18/11/2021,Ébola,Parasitaria,2.39;60.5,61+,Masculino,Cirugía,12106,S
+Italia,23/06/2020,Rabia,Metabólica,2.3;61.13,19 - 35,Femenino,Medicación,19385,S
+Japón,02/08/2023,Zika,Crónica,2.03;55.39,36 - 60,Ambos,Cirugía,18212,N
+Australia,06/05/2024,Poliomielitis,Genética,1.97;60.62,61+,Ambos,Cirugía,31453,N
+Italia,14/04/2023,Malaria,Respiratoria,1.73;61.35,36 - 60,Ambos,Vacunación,39511,N
+Australia,01/05/2021,Enfermedad de Alzheimer,Autoinmune,1.65;88.92,35+,Femenino,Vacunación,46206,S
+China,31/03/2021,Poliomielitis,Bacteriana,1.35;60.59,19 - 35,Ambos,Cirugía,12553,S
+Indonesia,07/01/2020,Asma,Genética,0.93;96.12,36 - 60,Masculino,Cirugía,22240,N
+México,01/05/2021,Zika,Viral,0.93;57.94,0 - 18,Ambos,Terapia,41283,N
+China,19/01/2024,Cáncer,Autoinmune,0.52;70.73,61+,Femenino,Cirugía,6164,N
+India,02/03/2020,Lepra,Crónica,0.14;58.07,61+,Masculino,Terapia,45799,S
+Francia,18/03/2022,Ébola,Parasitaria,9.93;62.48,18+,Masculino,Terapia,26647,N
+Indonesia,15/08/2024,Malaria,Autoinmune,9.86;94.48,61+,Ambos,Terapia,11564,N
+Korea del Sur,23/01/2020,Asma,Genética,9.86;88.34,36 - 60,Masculino,Medicación,3894,S
+Argentina,06/06/2020,Cáncer,Autoinmune,9.8;71.32,0 - 18,Ambos,Terapia,48511,S
+Arabia Saudita,16/11/2021,Gripe,Autoinmune,9.76;80.24,18+,Femenino,Medicación,27104,N
+Nigeria,18/09/2020,Enfermedad de Parkinson,Autoinmune,9.74;75.65,19 - 35,Ambos,Vacunación,23172,N
+Australia,23/10/2024,Diabetes,Respiratoria,9.63;69.6,61+,Masculino,Vacunación,48775,N
+Canadá,22/06/2024,Poliomielitis,Respiratoria,9.52;78.78,61+,Masculino,Cirugía,41748,S
+Brasil,06/08/2020,Cáncer,Metabólica,9.48;71.79,61+,Masculino,Medicación,38685,N
+Argentina,20/05/2024,Malaria,Genética,9.35;97.06,61+,Masculino,Medicación,30308,N
+Francia,16/10/2024,Hepatitis,Neurológica,9.35;70.61,18+,Masculino,Medicación,48509,S
+Indonesia,04/12/2020,Tuberculosis,Cardiovascular,9.24;82.07,19 - 35,Femenino,Vacunación,34433,N
+México,09/06/2024,Lepra,Autoinmune,9.08;85.24,36 - 60,Ambos,Terapia,43420,S
+Brasil,11/12/2020,Cólera,Neurológica,9.07;57.35,36 - 60,Masculino,Terapia,1326,S
+EEUU,22/10/2021,Hepatitis,Genética,9;53.27,19 - 35,Ambos,Cirugía,43882,N
+Turquía,31/08/2024,Enfermedad de Alzheimer,Metabólica,8.96;56.04,35+,Masculino,Terapia,12479,S
+Indonesia,19/09/2020,Cáncer,Metabólica,8.89;53.64,35+,Masculino,Terapia,2691,N
+Reino Unido,09/06/2023,Malaria,Neurológica,8.84;80.12,0 - 18,Ambos,Vacunación,34633,S
+Indonesia,13/12/2021,Asma,Cardiovascular,8.79;90.19,35+,Femenino,Vacunación,1670,S
+Rusia,28/04/2020,Lepra,Respiratoria,8.52;79.36,36 - 60,Ambos,Vacunación,48845,N
+Francia,29/04/2020,Cáncer,Genética,8.46;67.95,61+,Masculino,Vacunación,20789,S
+Reino Unido,19/12/2023,Enfermedad de Alzheimer,Genética,8.37;95.07,19 - 35,Ambos,Medicación,21148,N
+Argentina,16/04/2024,Lepra,Viral,8.35;61,0 - 18,Femenino,Vacunación,15791,S
+EEUU,21/03/2022,Enfermedad de Alzheimer,Infecciosa,7.98;71.82,19 - 35,Femenino,Terapia,46614,S
+China,21/02/2024,Poliomielitis,Infecciosa,7.88;89.86,19 - 35,Ambos,Terapia,28963,N
+Canadá,10/02/2022,Poliomielitis,Metabólica,7.82;96.93,0 - 18,Femenino,Cirugía,49048,S
+Italia,27/04/2021,Gripe,Infecciosa,7.8;89.2,19 - 35,Ambos,Cirugía,14928,N
+Australia,14/04/2021,Enfermedad de Alzheimer,Neurológica,7.66;78,0 - 18,Femenino,Terapia,16828,N
+Brasil,01/12/2021,Zika,Crónica,7.61;68.66,19 - 35,Ambos,Vacunación,3852,N
+Japón,27/08/2020,Asma,Genética,7.55;71.58,19 - 35,Masculino,Cirugía,34613,S
+Argentina,23/05/2020,Poliomielitis,Respiratoria,7.45;65.03,36 - 60,Ambos,Vacunación,17811,N
+India,23/02/2023,Enfermedad de Parkinson,Crónica,7.28;81,35+,Masculino,Cirugía,32264,N
+China,12/10/2020,Lepra,Infecciosa,7.25;50.48,35+,Ambos,Medicación,9536,S
+Nigeria,14/05/2020,Lepra,Respiratoria,7.17;64.29,61+,Masculino,Vacunación,16241,S
+Italia,20/08/2020,Cáncer,Cardiovascular,7.14;75.31,19 - 35,Ambos,Medicación,29412,S
+Sudáfrica,16/02/2020,Malaria,Genética,7.1;74.72,0 - 18,Masculino,Medicación,16297,S
+EEUU,07/05/2022,COVID-19,Parasitaria,7.1;65.05,36 - 60,Femenino,Terapia,10754,N
+Japón,04/12/2021,Lepra,Autoinmune,7.05;73.4,61+,Masculino,Terapia,32112,N
+Argentina,21/03/2021,VIH/SIDA,Infecciosa,7;97.99,36 - 60,Femenino,Cirugía,15165,N
+EEUU,21/03/2022,Enfermedad de Parkinson,Cardiovascular,6.96;88.7,61+,Masculino,Medicación,3418,S
+Canadá,03/02/2024,VIH/SIDA,Cardiovascular,6.94;82.27,61+,Femenino,Medicación,45222,N
+Sudáfrica,15/07/2021,Sarampión,Metabólica,6.76;88.49,61+,Masculino,Cirugía,30910,N
+México,16/04/2022,Dengue,Autoinmune,6.7;89.97,0 - 18,Masculino,Vacunación,30004,S
+Francia,01/02/2021,Hipertensión,Respiratoria,6.53;61.93,0 - 18,Ambos,Terapia,19248,N
+Indonesia,26/11/2021,Lepra,Crónica,6.49;67.24,0 - 18,Masculino,Vacunación,13763,S
+Alemania,22/09/2024,Ébola,Infecciosa,6.46;56.21,36 - 60,Masculino,Terapia,17386,N
+Rusia,11/09/2020,Cólera,Neurológica,6.29;54.46,36 - 60,Ambos,Medicación,31223,N
+China,08/07/2021,Hepatitis,Crónica,6.24;80.73,61+,Masculino,Terapia,7453,S
+Nigeria,18/07/2023,Cólera,Crónica,6.22;98.11,19 - 35,Ambos,Cirugía,27400,S
+Alemania,24/10/2020,Lepra,Genética,6.11;60.15,0 - 18,Masculino,Medicación,42760,N
+México,14/07/2020,Gripe,Metabólica,5.93;89.74,19 - 35,Femenino,Vacunación,3055,S
+Argentina,21/11/2023,Diabetes,Cardiovascular,5.9;86.58,19 - 35,Femenino,Medicación,45226,S
+Sudáfrica,15/12/2024,Lepra,Parasitaria,5.88;91.58,61+,Masculino,Cirugía,10070,S
+Canadá,04/12/2021,Dengue,Cardiovascular,5.85;52.91,36 - 60,Femenino,Cirugía,31531,S
+Canadá,23/11/2021,Malaria,Respiratoria,5.77;72.44,19 - 35,Ambos,Cirugía,18763,S
+Reino Unido,23/09/2024,Cáncer,Bacteriana,5.55;69.17,61+,Masculino,Medicación,47401,N
+Japón,21/07/2021,Dengue,Viral,5.55;65.28,36 - 60,Masculino,Terapia,21589,N
+EEUU,27/09/2021,Poliomielitis,Autoinmune,5.53;60.19,61+,Masculino,Medicación,34594,N
+México,19/05/2024,Lepra,Bacteriana,5.52;81.61,61+,Femenino,Cirugía,36427,N
+China,21/01/2024,Lepra,Infecciosa,5.01;97.04,0 - 18,Ambos,Terapia,30129,N
+Canadá,12/09/2023,Cólera,Crónica,4.96;55.36,19 - 35,Ambos,Terapia,47458,S
+Australia,01/02/2023,Hipertensión,Cardiovascular,4.75;54.98,19 - 35,Femenino,Vacunación,42014,N
+EEUU,06/05/2020,Lepra,Respiratoria,4.72;65.08,36 - 60,Ambos,Terapia,11515,S
+Japón,17/09/2021,COVID-19,Infecciosa,4.7;65.65,0 - 18,Femenino,Medicación,48714,N
+Alemania,16/05/2024,Poliomielitis,Bacteriana,4.69;87.89,0 - 18,Masculino,Cirugía,19358,S
+Italia,17/11/2022,Rabia,Bacteriana,4.58;81.73,0 - 18,Femenino,Cirugía,36841,S
+Canadá,18/11/2023,Tuberculosis,Autoinmune,4.35;68.15,61+,Ambos,Terapia,3898,N
+Indonesia,25/09/2022,Ébola,Infecciosa,4.29;86.39,61+,Femenino,Medicación,21147,N
+Canadá,20/06/2024,Diabetes,Bacteriana,4.25;80.23,0 - 18,Ambos,Vacunación,46348,N
+Korea del Sur,19/01/2022,Rabia,Metabólica,3.97;71.22,19 - 35,Femenino,Cirugía,44041,N
+Italia,28/12/2020,Asma,Cardiovascular,3.77;56.52,61+,Masculino,Terapia,7672,N
+Francia,20/03/2024,Lepra,Bacteriana,3.51;79.26,19 - 35,Masculino,Cirugía,32685,N
+Reino Unido,21/05/2021,Cáncer,Bacteriana,3.36;63.04,36 - 60,Ambos,Cirugía,25358,N
+Alemania,30/08/2023,Hipertensión,Respiratoria,3.34;76.3,61+,Ambos,Medicación,34224,N
+México,24/05/2023,Dengue,Crónica,3.31;73.08,35+,Masculino,Terapia,43276,S
+Indonesia,13/05/2022,Diabetes,Bacteriana,3.1;81.6,61+,Femenino,Vacunación,31530,S
+Sudáfrica,12/05/2024,Malaria,Autoinmune,2.46;95.78,19 - 35,Femenino,Terapia,25750,S
+Francia,02/08/2024,VIH/SIDA,Bacteriana,2.29;92.94,61+,Masculino,Terapia,47905,S
+Arabia Saudita,11/12/2022,Enfermedad de Parkinson,Infecciosa,2.21;84.21,36 - 60,Femenino,Vacunación,46929,N
+Korea del Sur,28/04/2021,Enfermedad de Parkinson,Viral,2.18;53.81,19 - 35,Ambos,Vacunación,8323,N
+Turquía,03/02/2023,Hipertensión,Crónica,2.06;92.81,36 - 60,Ambos,Cirugía,5296,S
+Reino Unido,21/10/2020,Zika,Autoinmune,2.01;74.41,0 - 18,Femenino,Cirugía,15231,S
+Korea del Sur,12/11/2021,Zika,Respiratoria,1.99;79.38,18+,Femenino,Vacunación,49898,N
+Sudáfrica,20/07/2024,Malaria,Parasitaria,1.99;56.98,61+,Ambos,Medicación,12827,S
+Australia,27/12/2022,Dengue,Metabólica,1.88;65.85,0 - 18,Masculino,Terapia,32065,S
+Nigeria,03/09/2024,Hipertensión,Neurológica,1.83;51.33,36 - 60,Masculino,Vacunación,15716,N
+Rusia,12/12/2022,Asma,Genética,1.76;90.79,18+,Femenino,Cirugía,20500,S
+Canadá,21/01/2021,COVID-19,Genética,1.72;67.26,19 - 35,Femenino,Terapia,15676,N
+India,09/03/2023,Cáncer,Autoinmune,1.54;76.79,61+,Ambos,Terapia,18488,N
+Korea del Sur,23/08/2020,Hepatitis,Cardiovascular,1.53;95.99,61+,Ambos,Terapia,4433,N
+Korea del Sur,08/08/2023,Cáncer,Viral,1.53;60.65,0 - 18,Masculino,Medicación,4929,S
+Arabia Saudita,10/04/2021,COVID-19,Metabólica,1.41;77.08,61+,Masculino,Terapia,34499,S
+Francia,23/07/2023,Ébola,Autoinmune,1.39;78.27,36 - 60,Ambos,Terapia,38405,N
+Nigeria,25/06/2024,Cólera,Viral,1.26;75.6,36 - 60,Ambos,Terapia,43286,N
+India,21/05/2021,Tuberculosis,Bacteriana,1.23;58.85,0 - 18,Femenino,Terapia,11459,N
+Indonesia,10/07/2023,Sarampión,Autoinmune,1.09;64.6,19 - 35,Ambos,Vacunación,17591,N
+EEUU,20/01/2024,Dengue,Respiratoria,0.9;84.72,0 - 18,Masculino,Terapia,26802,S
+Indonesia,14/03/2023,Malaria,Bacteriana,0.82;98.95,36 - 60,Masculino,Medicación,35950,S
+Turquía,07/06/2024,Hepatitis,Neurológica,0.65;54.15,61+,Ambos,Cirugía,26236,S
+Japón,23/12/2021,Hepatitis,Bacteriana,0.36;72.32,35+,Ambos,Terapia,46023,S
+Rusia,20/02/2021,Malaria,Genética,0.17;59.78,36 - 60,Femenino,Terapia,42541,S
+Nigeria,10/03/2020,Malaria,Infecciosa,9.56;53.85,61+,Femenino,Medicación,18721,S
+Turquía,23/02/2022,VIH/SIDA,Cardiovascular,9.53;64.84,19 - 35,Ambos,Terapia,1973,N
+EEUU,26/03/2021,Enfermedad de Alzheimer,Viral,9.52;80.64,0 - 18,Ambos,Cirugía,19236,N
+Korea del Sur,10/05/2023,COVID-19,Autoinmune,9.51;95.73,20+,Masculino,Cirugía,40792,N
+Turquía,25/07/2023,Diabetes,Respiratoria,9.4;64.99,20+,Masculino,Cirugía,26341,S
+Reino Unido,21/09/2022,Sarampión,Genética,9.37;89.12,0 - 18,Masculino,Vacunación,32801,S
+Italia,03/09/2023,VIH/SIDA,Genética,9.31;53.12,61+,Femenino,Terapia,48880,S
+Arabia Saudita,13/07/2021,Hipertensión,Crónica,9.3;60.96,0 - 18,Ambos,Terapia,17424,N
+Arabia Saudita,16/07/2024,Hepatitis,Metabólica,9.2;71.6,61+,Ambos,Vacunación,44868,N
+Sudáfrica,01/12/2022,Hipertensión,Viral,9.15;50.59,0 - 18,Masculino,Terapia,22040,N
+Italia,18/09/2023,Tuberculosis,Viral,9.13;87.91,36 - 60,Ambos,Cirugía,47533,S
+Alemania,24/12/2024,Sarampión,Bacteriana,9.11;93.31,61+,Femenino,Vacunación,24939,S
+India,31/08/2024,Ébola,Genética,8.9;82.95,19 - 35,Ambos,Terapia,14042,N
+Australia,31/07/2022,Asma,Genética,8.84;94.18,61+,Masculino,Terapia,49345,N
+Sudáfrica,30/08/2021,COVID-19,Cardiovascular,8.76;62.81,0 - 18,Femenino,Medicación,28963,N
+Japón,30/06/2023,Poliomielitis,Neurológica,8.7;56.66,61+,Masculino,Vacunación,37249,N
+Italia,04/04/2021,Hipertensión,Respiratoria,8.49;90.11,19 - 35,Femenino,Terapia,12844,S
+India,31/07/2021,Diabetes,Parasitaria,8.29;69.63,0 - 18,Femenino,Cirugía,45544,S
+Italia,04/03/2020,Sarampión,Neurológica,8.17;68.96,36 - 60,Ambos,Cirugía,28919,S
+Francia,03/06/2024,Lepra,Genética,7.82;96.53,36 - 60,Masculino,Terapia,18029,N
+China,25/12/2023,VIH/SIDA,Parasitaria,7.76;67.72,0 - 18,Ambos,Vacunación,31691,N
+Korea del Sur,13/11/2023,Malaria,Respiratoria,7.64;67.51,0 - 18,Ambos,Cirugía,10097,S
+Sudáfrica,08/05/2023,Hipertensión,Autoinmune,7.61;75.26,19 - 35,Masculino,Terapia,23481,S
+EEUU,20/07/2020,Enfermedad de Parkinson,Crónica,7.56;62.11,61+,Ambos,Vacunación,13713,S
+Italia,18/07/2022,Hipertensión,Respiratoria,7.55;80.48,0 - 18,Ambos,Cirugía,32705,S
+México,31/08/2022,Tuberculosis,Genética,7.18;76.15,19 - 35,Ambos,Terapia,15290,S
+Alemania,08/01/2023,Enfermedad de Parkinson,Metabólica,6.98;85.15,19 - 35,Femenino,Vacunación,21277,S
+México,01/08/2020,Cáncer,Neurológica,6.93;66.12,19 - 35,Ambos,Medicación,20487,N
+EEUU,28/03/2024,Zika,Crónica,6.87;92.2,0 - 18,Ambos,Terapia,10376,N
+México,28/09/2021,Malaria,Parasitaria,6.74;54.17,19 - 35,Masculino,Terapia,42055,S
+Korea del Sur,02/07/2020,Cólera,Cardiovascular,6.66;84.84,19 - 35,Masculino,Medicación,34144,S
+Alemania,07/05/2020,VIH/SIDA,Metabólica,6.64;56.57,61+,Ambos,Cirugía,30243,N
+India,30/08/2023,Rabia,Metabólica,6.6;58.5,36 - 60,Masculino,Vacunación,23318,N
+Sudáfrica,03/11/2020,Zika,Genética,6.6;50.72,19 - 35,Femenino,Cirugía,14502,N
+Francia,17/06/2024,Asma,Respiratoria,6.52;76.09,61+,Ambos,Medicación,26739,N
+Brasil,31/10/2020,Tuberculosis,Cardiovascular,6.41;53.91,19 - 35,Ambos,Terapia,41467,N
+Arabia Saudita,01/12/2021,Malaria,Genética,6.39;71.32,36 - 60,Ambos,Vacunación,18107,S
+Francia,03/11/2020,Tuberculosis,Metabólica,6.22;89.2,18+,Femenino,Medicación,29340,N
+Argentina,16/04/2024,Dengue,Neurológica,6.16;69.7,36 - 60,Masculino,Vacunación,24383,S
+India,19/08/2021,Ébola,Neurológica,5.9;96.6,0 - 18,Ambos,Terapia,42603,N
+Japón,05/01/2021,Ébola,Metabólica,5.86;59.22,0 - 18,Femenino,Cirugía,26686,S
+Francia,18/04/2023,Rabia,Respiratoria,5.81;75.15,61+,Femenino,Medicación,7838,N
+Australia,02/02/2022,Cólera,Bacteriana,5.59;93.25,61+,Femenino,Medicación,24009,N
+China,25/05/2023,Gripe,Crónica,5.36;60.51,0 - 18,Ambos,Vacunación,43817,S
+Italia,06/03/2024,Sarampión,Neurológica,5.34;53.69,0 - 18,Femenino,Vacunación,1727,N
+Japón,24/07/2024,Diabetes,Viral,5.27;72.27,61+,Femenino,Cirugía,7085,N
+India,24/12/2021,VIH/SIDA,Viral,5.26;55.44,18+,Masculino,Cirugía,9142,S
+Nigeria,03/06/2022,Malaria,Crónica,5.24;72.62,61+,Femenino,Medicación,491,S
+Canadá,21/03/2024,VIH/SIDA,Metabólica,5.05;88.81,18+,Femenino,Vacunación,40733,N
+Brasil,14/07/2022,COVID-19,Parasitaria,4.97;54.28,61+,Ambos,Medicación,2039,N
+Alemania,29/04/2020,Ébola,Infecciosa,4.74;82.66,0 - 18,Ambos,Medicación,10647,N
+Korea del Sur,16/05/2021,Sarampión,Parasitaria,4.72;91.21,36 - 60,Ambos,Medicación,29402,S
+Indonesia,27/12/2024,Poliomielitis,Parasitaria,4.7;52.46,35+,Masculino,Terapia,41644,N
+Japón,12/06/2021,Hipertensión,Metabólica,4.68;88.94,36 - 60,Masculino,Medicación,35864,S
+Sudáfrica,15/06/2021,Ébola,Viral,4.66;70.1,36 - 60,Ambos,Terapia,44724,N
+Arabia Saudita,28/02/2021,Asma,Bacteriana,4.58;94.78,0 - 18,Femenino,Medicación,28715,S
+Arabia Saudita,16/09/2020,COVID-19,Cardiovascular,4.31;91.9,36 - 60,Femenino,Vacunación,31536,N
+Brasil,01/03/2024,Malaria,Neurológica,4.1;60.24,18+,Femenino,Terapia,47971,S
+Brasil,23/03/2021,Cólera,Infecciosa,3.92;74.91,0 - 18,Masculino,Cirugía,33482,S
+México,05/02/2023,Asma,Neurológica,3.87;57.57,0 - 18,Ambos,Vacunación,39743,N
+Alemania,05/11/2022,Enfermedad de Alzheimer,Infecciosa,3.86;97.07,0 - 18,Masculino,Vacunación,48316,N
+Alemania,18/03/2023,Hipertensión,Crónica,3.83;52.48,61+,Ambos,Cirugía,16916,S
+Nigeria,05/07/2023,Malaria,Genética,3.79;53.32,18+,Masculino,Terapia,45120,S
+Reino Unido,20/02/2022,Diabetes,Bacteriana,3.77;74.74,19 - 35,Masculino,Vacunación,41515,S
+Francia,05/05/2023,Hepatitis,Autoinmune,3.66;92.62,61+,Masculino,Vacunación,5788,S
+Indonesia,04/02/2024,Asma,Parasitaria,3.61;79.97,19 - 35,Ambos,Vacunación,2841,S
+Sudáfrica,16/09/2022,Diabetes,Crónica,3.57;96.38,19 - 35,Masculino,Vacunación,10782,N
+Alemania,24/11/2024,Sarampión,Viral,3.48;95.6,19 - 35,Masculino,Medicación,9503,S
+Australia,15/11/2021,Malaria,Parasitaria,3.46;94.68,0 - 18,Femenino,Medicación,42726,S
+Rusia,05/08/2021,Enfermedad de Alzheimer,Neurológica,3.41;76.35,36 - 60,Ambos,Cirugía,9589,S
+Reino Unido,26/08/2020,Sarampión,Neurológica,3.39;96.89,19 - 35,Masculino,Cirugía,2793,S
+EEUU,18/06/2020,Enfermedad de Alzheimer,Infecciosa,3.27;98.75,19 - 35,Ambos,Terapia,29597,N
+Australia,14/01/2023,COVID-19,Autoinmune,3.25;72.68,36 - 60,Ambos,Terapia,27213,N
+Francia,25/06/2022,Asma,Autoinmune,3.15;75.12,0 - 18,Ambos,Vacunación,39005,N
+EEUU,25/01/2022,Ébola,Cardiovascular,3.12;82.69,36 - 60,Ambos,Medicación,36545,S
+Francia,28/12/2024,Cólera,Neurológica,3.06;92.5,0 - 18,Masculino,Terapia,1622,S
+India,31/01/2023,Hipertensión,Cardiovascular,3.06;72.56,19 - 35,Ambos,Cirugía,28003,S
+Sudáfrica,15/10/2024,Enfermedad de Alzheimer,Metabólica,3.01;77.29,19 - 35,Ambos,Terapia,40530,S
+Alemania,25/10/2022,Hipertensión,Neurológica,2.92;75.15,0 - 18,Femenino,Cirugía,12512,S
+Arabia Saudita,24/06/2023,Poliomielitis,Metabólica,2.82;58.61,19 - 35,Ambos,Medicación,47584,N
+Australia,24/01/2022,Gripe,Cardiovascular,2.79;89.43,61+,Femenino,Medicación,44176,S
+Arabia Saudita,27/10/2022,Cólera,Parasitaria,2.73;58.77,61+,Femenino,Medicación,48723,S
+Sudáfrica,17/03/2020,VIH/SIDA,Genética,2.48;81.61,0 - 18,Ambos,Vacunación,23673,S
+Francia,12/11/2021,Cólera,Metabólica,2.24;95.68,36 - 60,Masculino,Cirugía,27695,S
+Sudáfrica,25/02/2024,Enfermedad de Parkinson,Viral,2.02;85,0 - 18,Femenino,Terapia,28344,N
+Alemania,05/04/2022,Tuberculosis,Parasitaria,1.92;68.68,61+,Ambos,Vacunación,1886,S
+Italia,22/11/2021,COVID-19,Neurológica,1.77;61.23,0 - 18,Ambos,Terapia,9038,S
+Francia,12/07/2024,Poliomielitis,Autoinmune,1.21;74.48,36 - 60,Ambos,Vacunación,13070,N
+Arabia Saudita,01/01/2023,COVID-19,Cardiovascular,1.19;61.16,20+,Masculino,Medicación,9470,S
+Rusia,27/10/2020,Poliomielitis,Bacteriana,0.89;95.48,36 - 60,Ambos,Vacunación,18058,N
+Rusia,22/01/2023,Gripe,Bacteriana,0.7;82.98,35+,Masculino,Terapia,27252,N
+Francia,23/05/2023,Enfermedad de Parkinson,Autoinmune,0.7;82.56,19 - 35,Ambos,Medicación,3772,S
+Reino Unido,06/08/2024,COVID-19,Respiratoria,0.51;52.99,0 - 18,Ambos,Terapia,7929,S
+Korea del Sur,21/09/2024,Enfermedad de Parkinson,Genética,0.46;86.28,18+,Femenino,Terapia,25950,N
+Canadá,22/04/2024,Diabetes,Neurológica,0.21;67.65,61+,Masculino,Medicación,21615,S
+Sudáfrica,27/04/2021,Tuberculosis,Neurológica,0.2;76.64,36 - 60,Ambos,Terapia,1882,N
+Korea del Sur,30/06/2022,Rabia,Genética,9.77;72.86,35+,Masculino,Vacunación,19901,S
+Rusia,12/08/2021,Ébola,Autoinmune,9.6;56.61,0 - 18,Femenino,Terapia,15983,N
+Japón,16/02/2021,COVID-19,Infecciosa,9.33;60.58,61+,Femenino,Terapia,37396,N
+Canadá,21/04/2020,Hepatitis,Autoinmune,9.29;54.73,36 - 60,Masculino,Vacunación,17096,N
+Indonesia,20/07/2024,Lepra,Viral,9.27;86.56,61+,Ambos,Vacunación,6892,N
+China,15/05/2022,Zika,Viral,9.23;70.61,61+,Masculino,Cirugía,10785,N
+Rusia,30/07/2020,Sarampión,Autoinmune,9.22;92.28,61+,Ambos,Medicación,28594,N
+Arabia Saudita,03/04/2024,Ébola,Infecciosa,9.2;68.62,18+,Femenino,Terapia,9162,S
+Nigeria,07/12/2023,Rabia,Genética,9.16;70.31,36 - 60,Masculino,Vacunación,9850,S
+EEUU,17/05/2024,Enfermedad de Parkinson,Genética,9.05;55.53,35+,Masculino,Terapia,24706,N
+Alemania,05/05/2024,Tuberculosis,Genética,9.03;78.43,61+,Masculino,Cirugía,30272,S
+Brasil,06/10/2021,Enfermedad de Alzheimer,Respiratoria,8.96;91.38,18+,Ambos,Terapia,20614,S
+Rusia,02/03/2023,Sarampión,Viral,8.7;59.8,0 - 18,Masculino,Terapia,9235,N
+Japón,19/05/2023,Enfermedad de Parkinson,Cardiovascular,8.45;95.17,0 - 18,Femenino,Medicación,21377,N
+Argentina,10/07/2024,Enfermedad de Parkinson,Genética,8.35;84.17,0 - 18,Femenino,Medicación,21106,N
+EEUU,06/08/2021,Enfermedad de Parkinson,Parasitaria,8.29;73.02,19 - 35,Femenino,Cirugía,15440,N
+Japón,10/02/2020,Malaria,Metabólica,8.04;93.59,18+,Masculino,Vacunación,7574,S
+Sudáfrica,04/06/2023,Poliomielitis,Crónica,8.02;91.18,0 - 18,Masculino,Cirugía,8585,S
+Australia,27/09/2021,COVID-19,Bacteriana,7.97;95.78,19 - 35,Femenino,Terapia,48368,S
+Argentina,25/05/2024,Enfermedad de Alzheimer,Parasitaria,7.78;61.22,61+,Ambos,Vacunación,14769,S
+Brasil,21/02/2021,Enfermedad de Alzheimer,Viral,7.63;68.07,19 - 35,Ambos,Medicación,46325,S
+India,19/08/2023,Cáncer,Viral,7.6;68.08,19 - 35,Ambos,Cirugía,40132,S
+Brasil,15/09/2021,Gripe,Metabólica,7.58;53.15,19 - 35,Ambos,Cirugía,20737,N
+Japón,12/05/2024,Cáncer,Genética,7.4;62.55,36 - 60,Masculino,Medicación,38893,S
+México,12/07/2023,Cáncer,Genética,7.25;98.68,0 - 18,Ambos,Terapia,7280,N
+Italia,09/11/2023,VIH/SIDA,Neurológica,7.19;81.8,19 - 35,Femenino,Cirugía,14014,S
+China,10/05/2022,Sarampión,Neurológica,7.14;89.02,0 - 18,Masculino,Medicación,25068,S
+Turquía,09/09/2024,Ébola,Cardiovascular,7.1;70.61,61+,Masculino,Medicación,47696,S
+Rusia,27/01/2023,COVID-19,Respiratoria,6.78;90.15,0 - 18,Femenino,Vacunación,41955,N
+Australia,11/04/2024,Lepra,Viral,6.73;83.16,61+,Femenino,Medicación,47789,N
+Alemania,25/09/2024,Lepra,Respiratoria,6.69;68.8,61+,Ambos,Terapia,35395,N
+Italia,15/08/2024,Sarampión,Metabólica,6.47;94.81,61+,Femenino,Terapia,21443,N
+Arabia Saudita,25/08/2021,Rabia,Viral,6.33;55.36,0 - 18,Ambos,Vacunación,1534,N
+Australia,11/11/2024,Hipertensión,Genética,6.32;51.35,19 - 35,Ambos,Terapia,12535,N
+Indonesia,12/01/2021,Malaria,Bacteriana,6.26;97.68,19 - 35,Masculino,Medicación,25665,S
+Japón,12/06/2023,Sarampión,Crónica,6.24;83.98,36 - 60,Masculino,Terapia,35832,N
+Brasil,21/10/2024,Lepra,Neurológica,6.2;55.32,0 - 18,Femenino,Medicación,26671,S
+Arabia Saudita,27/01/2020,COVID-19,Bacteriana,6.17;90,61+,Femenino,Vacunación,32144,S
+Italia,21/01/2023,Poliomielitis,Crónica,6.15;77.6,0 - 18,Masculino,Terapia,824,S
+México,20/08/2021,Poliomielitis,Viral,5.84;79.31,18+,Femenino,Medicación,7311,N
+India,02/05/2023,Malaria,Genética,5.83;67.51,19 - 35,Femenino,Cirugía,9500,S
+Canadá,12/06/2023,Diabetes,Respiratoria,5.78;58.27,61+,Masculino,Cirugía,31780,N
+Italia,25/07/2021,VIH/SIDA,Metabólica,5.68;74.78,0 - 18,Femenino,Cirugía,22826,S
+Reino Unido,19/01/2022,COVID-19,Neurológica,5.65;94.13,0 - 18,Ambos,Terapia,32204,S
+Korea del Sur,02/10/2023,Diabetes,Infecciosa,5.54;74.65,0 - 18,Masculino,Medicación,34118,N
+Korea del Sur,17/08/2024,Gripe,Parasitaria,5.38;53.28,36 - 60,Ambos,Medicación,35101,S
+Reino Unido,13/12/2021,Sarampión,Crónica,5.22;95.33,61+,Femenino,Medicación,12997,S
+Japón,28/08/2023,Hipertensión,Infecciosa,5.17;95.31,0 - 18,Masculino,Terapia,14452,N
+Rusia,02/11/2022,COVID-19,Infecciosa,5.15;77.41,36 - 60,Masculino,Terapia,31231,N
+India,01/03/2022,Poliomielitis,Genética,5.04;77.26,61+,Masculino,Medicación,22356,N
+Argentina,12/11/2024,Enfermedad de Alzheimer,Metabólica,4.83;68.92,18+,Femenino,Vacunación,49425,N
+India,21/03/2024,Poliomielitis,Metabólica,4.81;82.58,36 - 60,Ambos,Vacunación,20271,N
+Canadá,04/05/2023,Gripe,Genética,4.78;56.8,61+,Masculino,Medicación,45973,S
+Japón,16/12/2023,Rabia,Respiratoria,4.64;57.77,19 - 35,Femenino,Terapia,44487,N
+Arabia Saudita,31/05/2020,Cáncer,Parasitaria,4.58;65,61+,Masculino,Medicación,9985,N
+Japón,02/04/2020,Diabetes,Respiratoria,4.53;79.94,61+,Ambos,Cirugía,38769,N
+Brasil,30/08/2024,Sarampión,Metabólica,4.28;90.69,0 - 18,Masculino,Cirugía,20985,N
+Reino Unido,05/06/2020,Enfermedad de Alzheimer,Bacteriana,4.26;74.49,19 - 35,Femenino,Terapia,43783,S
+Turquía,05/06/2020,Asma,Crónica,4.19;86.66,19 - 35,Masculino,Vacunación,24044,N
+Rusia,15/11/2021,Cáncer,Parasitaria,4.11;71.7,0 - 18,Masculino,Terapia,31323,N
+Francia,07/12/2024,Asma,Metabólica,4.01;68.79,35+,Masculino,Medicación,35508,S
+México,01/05/2024,Enfermedad de Alzheimer,Bacteriana,3.94;89.2,18+,Masculino,Vacunación,3776,S
+Arabia Saudita,26/05/2021,Enfermedad de Parkinson,Genética,3.83;55.92,0 - 18,Ambos,Medicación,28397,S
+China,22/07/2023,Ébola,Neurológica,3.71;70.25,36 - 60,Femenino,Vacunación,30248,S
+Australia,07/02/2023,COVID-19,Bacteriana,3.66;90.79,61+,Masculino,Vacunación,19223,N
+Arabia Saudita,21/08/2023,Cólera,Metabólica,3.63;73.23,0 - 18,Ambos,Cirugía,14654,S
+Brasil,26/11/2021,Cólera,Crónica,3.58;74.96,18+,Masculino,Cirugía,22201,S
+Alemania,01/11/2020,Diabetes,Autoinmune,3.49;88.63,0 - 18,Masculino,Terapia,46007,S
+Turquía,29/10/2022,Gripe,Infecciosa,3.43;91.69,19 - 35,Femenino,Cirugía,48532,N
+EEUU,08/04/2020,Cáncer,Neurológica,3.42;70.36,19 - 35,Femenino,Vacunación,42181,S
+Italia,01/05/2023,Zika,Cardiovascular,3.35;93.09,19 - 35,Femenino,Cirugía,17582,S
+Alemania,29/11/2023,VIH/SIDA,Parasitaria,3.33;50.33,19 - 35,Femenino,Cirugía,5760,S
+Korea del Sur,19/10/2023,Zika,Parasitaria,3.22;55.83,0 - 18,Masculino,Terapia,8008,N
+Alemania,30/11/2020,Sarampión,Parasitaria,2.91;54.2,36 - 60,Ambos,Vacunación,47731,S
+Canadá,20/04/2023,Cólera,Genética,2.89;98.91,36 - 60,Femenino,Cirugía,41578,S
+Sudáfrica,13/01/2024,Diabetes,Neurológica,2.84;71.12,61+,Masculino,Cirugía,48403,N
+Canadá,30/07/2020,Lepra,Infecciosa,2.66;85.53,61+,Masculino,Terapia,27963,S
+Korea del Sur,18/02/2023,Cólera,Genética,2.56;76.52,0 - 18,Femenino,Medicación,24917,S
+EEUU,06/01/2022,Zika,Parasitaria,2.43;66.6,0 - 18,Femenino,Cirugía,32631,N
+Turquía,08/05/2023,Hipertensión,Bacteriana,2.2;81.71,0 - 18,Femenino,Cirugía,25632,N
+Italia,26/04/2020,Malaria,Parasitaria,10;69.32,0 - 18,Ambos,Terapia,18493,N
+China,21/10/2020,Ébola,Autoinmune,1.94;60.78,0 - 18,Ambos,Medicación,45573,N
+Canadá,18/07/2024,Diabetes,Cardiovascular,1.92;78.38,19 - 35,Masculino,Vacunación,7412,S
+Japón,30/12/2022,Dengue,Genética,1.92;54.03,36 - 60,Masculino,Terapia,20139,S
+Korea del Sur,19/01/2021,Enfermedad de Alzheimer,Infecciosa,1.78;97.38,19 - 35,Masculino,Vacunación,21258,N
+Reino Unido,01/09/2024,COVID-19,Crónica,1.74;67.72,0 - 18,Masculino,Cirugía,39538,N
+EEUU,19/03/2024,Gripe,Crónica,1.67;93.98,19 - 35,Ambos,Medicación,27288,S
+Francia,19/05/2021,Malaria,Respiratoria,1.64;95.87,36 - 60,Masculino,Medicación,5349,N
+Brasil,24/07/2022,Poliomielitis,Genética,1.54;72.55,0 - 18,Femenino,Terapia,2804,S
+Indonesia,06/01/2023,Hepatitis,Metabólica,1.51;84.67,36 - 60,Masculino,Terapia,2027,N
+Francia,09/11/2020,Lepra,Cardiovascular,1.51;67.98,19 - 35,Ambos,Terapia,3543,N
+Indonesia,25/11/2021,Enfermedad de Parkinson,Neurológica,1.41;69.87,36 - 60,Femenino,Terapia,44741,S
+Turquía,18/10/2020,COVID-19,Neurológica,1.41;57.17,61+,Femenino,Cirugía,2539,S
+Turquía,26/04/2023,Lepra,Cardiovascular,1.3;74.63,0 - 18,Femenino,Terapia,43949,S
+Korea del Sur,09/08/2020,VIH/SIDA,Parasitaria,1.29;58.89,0 - 18,Masculino,Cirugía,5394,S
+India,04/02/2022,Sarampión,Infecciosa,1.01;92.23,0 - 18,Ambos,Terapia,5879,S
+Italia,16/02/2023,VIH/SIDA,Respiratoria,0.89;73.28,18+,Masculino,Cirugía,21884,S
+Argentina,10/02/2024,Diabetes,Genética,0.86;84.07,0 - 18,Femenino,Vacunación,42619,S
+Brasil,14/09/2023,Dengue,Cardiovascular,0.83;86.27,35+,Masculino,Vacunación,4834,S
+Nigeria,30/05/2023,Poliomielitis,Neurológica,0.62;70.87,36 - 60,Femenino,Cirugía,2862,N
+Rusia,09/02/2022,Cáncer,Infecciosa,0.52;88.26,36 - 60,Masculino,Cirugía,35252,S
+Rusia,16/03/2020,Dengue,Metabólica,0.39;94.9,0 - 18,Femenino,Terapia,36070,S
+Canadá,26/11/2023,Lepra,Viral,0.36;52.05,0 - 18,Masculino,Vacunación,11727,S
+Sudáfrica,01/10/2022,Asma,Bacteriana,0.32;63.48,18+,Ambos,Medicación,37764,N
+Arabia Saudita,04/02/2024,Hipertensión,Crónica,0.22;74.75,0 - 18,Femenino,Medicación,18036,N
+EEUU,27/12/2020,Enfermedad de Parkinson,Autoinmune,0.18;66.9,0 - 18,Masculino,Vacunación,44872,N
+Brasil,24/10/2024,Diabetes,Bacteriana,9.56;75.85,0 - 18,Masculino,Terapia,8895,S
+Alemania,19/04/2023,Gripe,Viral,9.55;97.85,18+,Ambos,Vacunación,36969,S
+Brasil,24/03/2020,Dengue,Cardiovascular,9.31;50.19,18+,Ambos,Vacunación,6985,N
+Alemania,08/11/2020,Ébola,Genética,9.08;78.82,0 - 18,Ambos,Cirugía,39000,N
+Sudáfrica,15/06/2023,Ébola,Bacteriana,9.06;93.03,0 - 18,Ambos,Vacunación,12581,S
+China,13/03/2024,Rabia,Parasitaria,8.99;63.38,0 - 18,Masculino,Medicación,34292,S
+Brasil,08/07/2024,VIH/SIDA,Genética,8.83;78.5,36 - 60,Ambos,Medicación,17737,N
+Reino Unido,16/01/2022,Poliomielitis,Respiratoria,8.68;74.05,19 - 35,Ambos,Terapia,748,N
+Australia,26/05/2021,Diabetes,Crónica,8.64;90.81,36 - 60,Masculino,Vacunación,24801,S
+Argentina,26/09/2020,Gripe,Viral,8.61;71.3,36 - 60,Femenino,Cirugía,32391,S
+Australia,26/02/2024,Tuberculosis,Viral,8.6;63.53,61+,Femenino,Cirugía,11840,N
+Sudáfrica,24/01/2022,Ébola,Crónica,8.53;92.37,36 - 60,Masculino,Terapia,37025,S
+Turquía,21/07/2021,Malaria,Parasitaria,8.49;69.6,61+,Femenino,Terapia,42592,N
+China,12/04/2021,Enfermedad de Alzheimer,Metabólica,8.36;66.94,36 - 60,Ambos,Medicación,18519,N
+Italia,03/02/2021,Dengue,Bacteriana,8.13;68.63,35+,Ambos,Terapia,19701,S
+Arabia Saudita,20/03/2020,Lepra,Crónica,8.1;70.33,19 - 35,Ambos,Terapia,19603,N
+Nigeria,10/06/2021,Asma,Genética,8.09;94.53,36 - 60,Ambos,Cirugía,12225,N
+Indonesia,22/10/2022,VIH/SIDA,Bacteriana,8.07;56.34,61+,Femenino,Medicación,41203,N
+EEUU,10/07/2021,Cáncer,Neurológica,8.05;83.08,0 - 18,Femenino,Vacunación,46457,S
+India,01/09/2022,Dengue,Autoinmune,8.03;69.59,0 - 18,Femenino,Vacunación,42857,N
+Alemania,01/08/2022,Diabetes,Viral,7.91;60.31,19 - 35,Ambos,Medicación,12282,N
+India,06/02/2023,Malaria,Bacteriana,7.83;80.87,0 - 18,Ambos,Cirugía,8811,S
+Rusia,02/07/2020,Sarampión,Crónica,7.82;76.13,61+,Masculino,Medicación,15271,N
+Japón,17/05/2023,Rabia,Viral,7.81;53.94,19 - 35,Masculino,Terapia,12179,S
+Japón,08/08/2021,Asma,Viral,7.77;94.66,36 - 60,Ambos,Terapia,30001,S
+Canadá,03/03/2020,Poliomielitis,Autoinmune,7.59;90.66,36 - 60,Ambos,Medicación,41212,S
+México,12/08/2021,Tuberculosis,Crónica,7.44;56.61,61+,Ambos,Medicación,45222,N
+México,28/06/2023,Ébola,Crónica,7.41;82.13,19 - 35,Femenino,Medicación,21410,N
+Reino Unido,14/10/2023,Poliomielitis,Cardiovascular,7.2;80.41,0 - 18,Masculino,Medicación,41791,S
+Italia,03/08/2022,COVID-19,Infecciosa,6.99;88.65,61+,Femenino,Terapia,35289,N
+Alemania,03/04/2024,Cólera,Genética,6.78;68.42,19 - 35,Femenino,Medicación,2067,S
+Australia,28/04/2020,Hipertensión,Viral,6.75;95.31,61+,Ambos,Vacunación,28992,N
+México,17/09/2023,Enfermedad de Parkinson,Cardiovascular,6.61;65.85,19 - 35,Masculino,Medicación,23974,S
+Arabia Saudita,22/10/2023,Sarampión,Cardiovascular,6.43;56.85,19 - 35,Femenino,Cirugía,38412,S
+México,17/01/2020,Diabetes,Autoinmune,6.29;50.75,61+,Ambos,Cirugía,10632,S
+Brasil,02/12/2023,Zika,Metabólica,6.11;74,61+,Masculino,Cirugía,47320,N
+Brasil,20/02/2021,Rabia,Viral,5.78;77.37,61+,Femenino,Vacunación,31054,N
+Japón,30/06/2024,Dengue,Cardiovascular,5.75;84.59,36 - 60,Ambos,Terapia,42699,S
+Francia,16/02/2024,Cáncer,Genética,5.71;54.24,19 - 35,Femenino,Vacunación,1312,S
+Japón,15/02/2024,Asma,Infecciosa,5.62;68.97,0 - 18,Ambos,Terapia,39039,N
+Turquía,13/10/2021,Dengue,Crónica,5.47;56.8,19 - 35,Femenino,Cirugía,21272,N
+Arabia Saudita,27/02/2023,Tuberculosis,Parasitaria,5.45;64.5,18+,Femenino,Medicación,26670,S
+Francia,28/08/2024,COVID-19,Parasitaria,5.19;52.67,36 - 60,Femenino,Cirugía,20680,N
+Brasil,04/01/2021,VIH/SIDA,Crónica,4.9;97.33,61+,Femenino,Medicación,32312,N
+Arabia Saudita,08/10/2023,Enfermedad de Alzheimer,Bacteriana,4.89;75.12,36 - 60,Masculino,Vacunación,23729,S
+Australia,20/09/2020,Enfermedad de Parkinson,Bacteriana,4.88;87.91,35+,Femenino,Terapia,30938,S
+Korea del Sur,23/03/2024,Dengue,Respiratoria,4.77;60.47,35+,Masculino,Terapia,39590,N
+Indonesia,21/02/2024,Lepra,Neurológica,4.66;65.17,36 - 60,Ambos,Medicación,27682,S
+Arabia Saudita,18/05/2020,Lepra,Respiratoria,4.57;82.11,61+,Ambos,Medicación,19985,S
+Canadá,29/12/2020,Cáncer,Infecciosa,4.57;61.91,0 - 18,Femenino,Medicación,5342,N
+India,20/09/2022,Malaria,Bacteriana,4.36;85.39,19 - 35,Masculino,Medicación,35259,S
+Rusia,14/11/2023,Cólera,Respiratoria,4.24;55.21,36 - 60,Masculino,Medicación,27106,N
+Indonesia,29/10/2022,Cáncer,Crónica,4.22;70.51,61+,Femenino,Cirugía,9233,S
+India,14/04/2022,Hepatitis,Viral,4;62.39,61+,Femenino,Terapia,24386,S
+EEUU,02/03/2023,Dengue,Neurológica,3.96;62.23,0 - 18,Masculino,Vacunación,48806,S
+Alemania,13/06/2020,Lepra,Neurológica,3.81;94.9,19 - 35,Masculino,Medicación,29919,S
+EEUU,12/06/2024,Hipertensión,Infecciosa,3.77;92.29,61+,Masculino,Medicación,41916,N
+Francia,19/02/2022,Hepatitis,Bacteriana,3.66;62.51,36 - 60,Femenino,Terapia,22129,N
+India,03/08/2020,Rabia,Metabólica,3.65;62.58,19 - 35,Masculino,Terapia,20533,S
+Arabia Saudita,02/02/2024,Diabetes,Parasitaria,3.54;82.36,19 - 35,Masculino,Medicación,15753,N
+Alemania,09/03/2022,Sarampión,Genética,3.5;82.17,36 - 60,Femenino,Vacunación,19229,S
+Rusia,28/09/2022,Sarampión,Metabólica,3.45;79.75,35+,Femenino,Terapia,28299,S
+Canadá,03/03/2022,Malaria,Genética,3.38;81.36,19 - 35,Ambos,Vacunación,30672,N
+Argentina,08/10/2022,Hipertensión,Autoinmune,3.09;70.07,0 - 18,Masculino,Cirugía,37748,N
+Sudáfrica,02/03/2020,VIH/SIDA,Autoinmune,3.04;75.56,19 - 35,Masculino,Vacunación,11668,S
+Nigeria,17/07/2024,VIH/SIDA,Neurológica,2.79;79.8,19 - 35,Ambos,Vacunación,38550,N
+Australia,28/07/2020,Lepra,Genética,2.79;71.47,61+,Masculino,Terapia,33851,N
+India,30/01/2021,Rabia,Infecciosa,2.74;81.45,36 - 60,Ambos,Vacunación,49395,N
+Rusia,15/10/2021,Enfermedad de Parkinson,Viral,2.59;81.15,0 - 18,Masculino,Vacunación,39763,N
+China,11/03/2022,Dengue,Cardiovascular,2.49;92.36,61+,Masculino,Medicación,13444,S
+Japón,21/10/2020,Rabia,Viral,2.19;57.48,0 - 18,Femenino,Medicación,16977,N
+Argentina,30/11/2022,Enfermedad de Alzheimer,Crónica,2.02;68.4,0 - 18,Femenino,Vacunación,21208,S
+Korea del Sur,19/05/2024,Poliomielitis,Infecciosa,1.82;55.88,18+,Ambos,Cirugía,13094,N
+India,22/03/2024,Zika,Cardiovascular,1.65;50.95,36 - 60,Ambos,Cirugía,46321,S
+Japón,12/10/2023,Gripe,Infecciosa,1.59;65.15,19 - 35,Masculino,Terapia,18223,N
+Francia,01/05/2020,Sarampión,Neurológica,1.35;75.4,0 - 18,Masculino,Medicación,14977,S
+Nigeria,04/03/2022,COVID-19,Viral,1.33;96.64,36 - 60,Femenino,Terapia,46757,S
+Turquía,27/01/2020,Diabetes,Genética,1.17;93.89,0 - 18,Masculino,Medicación,17462,S
+Francia,10/05/2021,Dengue,Crónica,0.91;92.5,19 - 35,Masculino,Cirugía,47557,S
+Argentina,19/12/2021,Lepra,Parasitaria,0.81;91.1,61+,Femenino,Medicación,35001,S
+Sudáfrica,22/02/2020,Hipertensión,Neurológica,0.79;85.65,61+,Ambos,Medicación,45647,N
+Reino Unido,02/04/2024,Hepatitis,Autoinmune,0.76;75.52,61+,Femenino,Vacunación,12866,S
+Francia,30/10/2022,Enfermedad de Parkinson,Crónica,0.74;73.98,0 - 18,Ambos,Medicación,45501,N
+Rusia,20/11/2024,Diabetes,Autoinmune,0.51;78.64,61+,Ambos,Terapia,37517,N
+Argentina,18/03/2020,Enfermedad de Parkinson,Neurológica,0.3;69.3,61+,Masculino,Vacunación,7219,N
+Italia,28/07/2023,Zika,Genética,0.21;69.99,36 - 60,Femenino,Vacunación,39516,N
+Brasil,22/12/2021,Cólera,Viral,0.15;77.86,0 - 18,Ambos,Vacunación,3872,N
+Korea del Sur,20/10/2023,Cólera,Metabólica,9.8;86.58,36 - 60,Femenino,Terapia,47950,S
+Italia,09/10/2022,Cólera,Bacteriana,9.68;65.39,19 - 35,Masculino,Vacunación,32651,S
+Sudáfrica,23/09/2022,Poliomielitis,Crónica,9.62;76.26,61+,Ambos,Medicación,28077,S
+Korea del Sur,31/03/2022,Asma,Cardiovascular,9.57;81.44,19 - 35,Femenino,Medicación,17970,S
+Turquía,20/01/2022,Enfermedad de Alzheimer,Infecciosa,9.26;71.68,19 - 35,Ambos,Terapia,38510,N
+Korea del Sur,16/01/2023,Sarampión,Crónica,9.16;54.67,61+,Masculino,Cirugía,25237,S
+Turquía,23/05/2020,Tuberculosis,Bacteriana,8.88;51.33,61+,Masculino,Cirugía,34909,S
+Korea del Sur,11/04/2024,Lepra,Crónica,8.72;76.36,61+,Ambos,Terapia,5193,N
+Korea del Sur,27/11/2020,Hepatitis,Respiratoria,8.5;95.27,0 - 18,Masculino,Terapia,2540,N
+Nigeria,20/12/2022,Rabia,Crónica,8.35;94.66,0 - 18,Masculino,Vacunación,35272,S
+Reino Unido,05/08/2022,Cáncer,Crónica,8.31;87.96,20+,Ambos,Medicación,35306,N
+India,07/12/2023,Rabia,Neurológica,8.3;78.62,0 - 18,Ambos,Cirugía,38770,N
+Arabia Saudita,04/01/2023,Tuberculosis,Crónica,8.26;88.31,35+,Masculino,Cirugía,5758,N
+Brasil,18/02/2020,Dengue,Infecciosa,8.19;66.22,35+,Masculino,Cirugía,37951,S
+China,12/04/2022,Cólera,Respiratoria,8.03;57.5,18+,Masculino,Cirugía,29060,N
+Nigeria,06/10/2024,Cáncer,Cardiovascular,8;92.8,36 - 60,Ambos,Medicación,1064,N
+Indonesia,29/06/2024,Malaria,Infecciosa,7.99;52.47,19 - 35,Femenino,Vacunación,27888,S
+Canadá,02/04/2023,Cáncer,Bacteriana,7.95;96.83,0 - 18,Masculino,Terapia,35476,N
+Australia,21/08/2020,Asma,Infecciosa,7.9;91.83,0 - 18,Femenino,Vacunación,18730,S
+EEUU,18/03/2024,Enfermedad de Alzheimer,Respiratoria,7.9;80.92,0 - 18,Ambos,Vacunación,6524,N
+EEUU,30/04/2023,Lepra,Genética,7.82;70.33,19 - 35,Ambos,Medicación,45907,N
+India,23/01/2024,Tuberculosis,Respiratoria,7.62;73.09,36 - 60,Masculino,Terapia,7504,N
+Indonesia,23/07/2023,Hipertensión,Parasitaria,7.55;78.72,61+,Ambos,Medicación,32268,S
+Sudáfrica,07/11/2024,Gripe,Metabólica,7.44;96.61,36 - 60,Femenino,Vacunación,30740,S
+Brasil,26/06/2021,COVID-19,Crónica,7.42;55.44,61+,Masculino,Medicación,44513,N
+Nigeria,20/07/2024,Ébola,Autoinmune,7.38;67.18,0 - 18,Femenino,Cirugía,45698,N
+Indonesia,07/08/2024,Enfermedad de Alzheimer,Crónica,7.31;98.54,61+,Masculino,Vacunación,2323,N
+Rusia,10/08/2023,Enfermedad de Parkinson,Viral,7.09;66.89,61+,Ambos,Medicación,47181,S
+Argentina,10/12/2021,Poliomielitis,Bacteriana,7.07;75.96,36 - 60,Ambos,Terapia,22177,S
+EEUU,05/01/2023,Cólera,Respiratoria,7.01;87.52,19 - 35,Ambos,Vacunación,27274,N
+Nigeria,06/05/2022,Tuberculosis,Cardiovascular,7;56.08,61+,Ambos,Medicación,28197,N
+Francia,25/09/2023,Enfermedad de Alzheimer,Viral,6.9;82.02,19 - 35,Masculino,Medicación,46835,N
+Alemania,25/06/2024,Enfermedad de Parkinson,Autoinmune,6.79;59.16,0 - 18,Ambos,Cirugía,27229,N
+Japón,29/03/2021,Diabetes,Cardiovascular,6.77;72.07,0 - 18,Ambos,Medicación,33413,N
+Sudáfrica,09/03/2021,Hepatitis,Metabólica,6.72;73.13,61+,Masculino,Terapia,47349,S
+EEUU,17/02/2022,Enfermedad de Alzheimer,Infecciosa,6.71;95.77,18+,Femenino,Vacunación,23177,S
+Korea del Sur,17/09/2020,Tuberculosis,Infecciosa,6.63;81.27,0 - 18,Ambos,Cirugía,40768,N
+Brasil,30/03/2024,Asma,Cardiovascular,6.35;58.55,61+,Ambos,Medicación,27531,S
+Sudáfrica,18/08/2023,Zika,Crónica,6.3;68.25,36 - 60,Ambos,Vacunación,12988,N
+México,12/06/2022,Tuberculosis,Autoinmune,6.28;67.6,19 - 35,Femenino,Medicación,23551,S
+India,19/08/2022,Cólera,Crónica,6.19;86.97,61+,Femenino,Terapia,9110,N
+India,20/05/2022,Cólera,Metabólica,5.81;91.51,19 - 35,Femenino,Cirugía,20543,N
+Indonesia,09/04/2021,Zika,Crónica,5.72;78.25,36 - 60,Ambos,Medicación,5021,S
+Canadá,10/06/2023,Rabia,Cardiovascular,5.7;92.31,19 - 35,Masculino,Vacunación,14592,S
+Turquía,09/11/2020,Poliomielitis,Respiratoria,5.49;95.8,18+,Ambos,Cirugía,29935,S
+Canadá,16/07/2023,Ébola,Genética,5.38;57.08,61+,Ambos,Vacunación,25230,N
+Australia,27/02/2022,Dengue,Parasitaria,5.33;54.97,61+,Femenino,Medicación,17908,N
+Australia,28/07/2021,Rabia,Autoinmune,4.96;64.56,0 - 18,Ambos,Vacunación,26835,N
+México,29/02/2020,Dengue,Infecciosa,4.89;73.93,35+,Masculino,Medicación,39159,N
+Alemania,29/09/2020,Cólera,Neurológica,4.79;82.74,18+,Femenino,Vacunación,2914,N
+Reino Unido,08/09/2020,Asma,Respiratoria,4.74;53.19,61+,Ambos,Vacunación,14083,N
+Canadá,25/01/2022,Dengue,Neurológica,4.62;50.3,19 - 35,Masculino,Terapia,7171,S
+Indonesia,24/09/2024,Rabia,Crónica,4.6;65.17,61+,Ambos,Cirugía,18654,N
+China,03/03/2020,Tuberculosis,Metabólica,4.58;65.2,36 - 60,Femenino,Cirugía,11009,S
+Australia,30/11/2023,Malaria,Cardiovascular,4.55;75.28,36 - 60,Ambos,Cirugía,12462,N
+China,27/11/2022,Rabia,Infecciosa,4.52;51.93,0 - 18,Ambos,Cirugía,32606,S
+Korea del Sur,08/09/2024,Lepra,Metabólica,4.4;89.46,36 - 60,Ambos,Vacunación,22602,N
+Turquía,15/10/2024,Rabia,Viral,4.21;77.91,61+,Ambos,Medicación,34350,N
+Australia,25/03/2022,Enfermedad de Parkinson,Cardiovascular,3.73;95.17,36 - 60,Femenino,Vacunación,28948,N
+Sudáfrica,30/11/2024,Dengue,Bacteriana,3.66;91.37,61+,Ambos,Cirugía,2003,N
+Argentina,09/09/2022,Hepatitis,Cardiovascular,3.51;80.02,61+,Ambos,Terapia,11189,S
+Rusia,26/02/2024,Sarampión,Crónica,3.43;83.61,36 - 60,Ambos,Terapia,42375,S
+Francia,13/11/2024,Cáncer,Neurológica,3.24;93.58,61+,Ambos,Vacunación,35042,S
+Rusia,24/07/2024,Malaria,Genética,3.05;70.3,18+,Ambos,Vacunación,1651,S
+Reino Unido,09/10/2024,Ébola,Parasitaria,2.84;70.86,36 - 60,Femenino,Medicación,22330,S
+Indonesia,08/09/2021,Ébola,Infecciosa,2.46;62.84,19 - 35,Masculino,Terapia,7842,S
+Reino Unido,15/05/2021,Cólera,Respiratoria,2.42;60.47,18+,Ambos,Terapia,35959,N
+India,03/05/2022,COVID-19,Parasitaria,2.36;74.98,19 - 35,Femenino,Vacunación,20739,N
+Nigeria,19/08/2021,Diabetes,Bacteriana,2.29;59.01,35+,Ambos,Cirugía,15768,S
+Turquía,03/10/2021,Asma,Bacteriana,1.75;57.67,19 - 35,Ambos,Vacunación,1667,S
+Turquía,21/12/2022,Tuberculosis,Autoinmune,1.58;65.59,35+,Ambos,Medicación,41497,S
+Korea del Sur,23/01/2022,Cáncer,Infecciosa,1.48;72.64,0 - 18,Masculino,Terapia,3419,N
+China,16/07/2022,VIH/SIDA,Bacteriana,1.47;83.29,36 - 60,Ambos,Vacunación,43312,S
+México,18/11/2024,VIH/SIDA,Respiratoria,1.39;81.03,61+,Masculino,Cirugía,27201,S
+Italia,08/02/2024,COVID-19,Autoinmune,1.38;64,0 - 18,Femenino,Medicación,26372,N
+EEUU,20/01/2022,Dengue,Neurológica,0.99;77.54,0 - 18,Femenino,Cirugía,12450,N
+India,02/01/2021,VIH/SIDA,Autoinmune,0.91;90.99,0 - 18,Masculino,Vacunación,34298,S
+Argentina,02/08/2022,Malaria,Infecciosa,0.8;85.83,0 - 18,Ambos,Terapia,23043,S
+India,19/09/2021,Hepatitis,Genética,0.75;88.11,61+,Ambos,Medicación,5839,N
+Canadá,24/01/2021,COVID-19,Neurológica,0.68;72.07,18+,Masculino,Vacunación,29404,N
+Nigeria,21/11/2021,Malaria,Metabólica,0.57;52.29,19 - 35,Ambos,Medicación,30798,N
+Sudáfrica,27/09/2020,Ébola,Metabólica,0.42;79.08,61+,Ambos,Medicación,23918,N
+Rusia,21/05/2020,COVID-19,Respiratoria,0.37;74.72,18+,Ambos,Vacunación,21406,S
+Indonesia,15/04/2020,Enfermedad de Alzheimer,Neurológica,9.97;65.41,0 - 18,Masculino,Vacunación,25985,S
+México,08/08/2020,Diabetes,Neurológica,9.95;51.75,61+,Femenino,Terapia,3756,N
+China,09/06/2024,COVID-19,Bacteriana,9.93;96.5,18+,Ambos,Terapia,16375,N
+Korea del Sur,05/11/2022,Zika,Cardiovascular,9.85;72.01,61+,Femenino,Vacunación,17161,N
+Turquía,22/05/2021,Hipertensión,Viral,9.7;91.2,61+,Masculino,Vacunación,28506,N
+Arabia Saudita,19/01/2021,Gripe,Respiratoria,9.62;54.88,36 - 60,Ambos,Vacunación,23842,N
+EEUU,03/11/2024,Rabia,Parasitaria,9.61;66.6,36 - 60,Femenino,Medicación,279,S
+Argentina,16/03/2020,Gripe,Crónica,9.56;83.75,61+,Masculino,Vacunación,13114,S
+Canadá,16/09/2020,Hepatitis,Neurológica,9.51;84.94,0 - 18,Masculino,Cirugía,26047,N
+EEUU,07/06/2022,Sarampión,Viral,9.51;69.7,18+,Masculino,Terapia,49194,N
+Sudáfrica,20/12/2021,Rabia,Parasitaria,9.47;78.56,61+,Femenino,Medicación,38844,N
+Nigeria,21/09/2021,Rabia,Genética,9.39;56.64,36 - 60,Masculino,Medicación,14057,S
+Italia,16/07/2024,COVID-19,Viral,9;50.09,19 - 35,Masculino,Vacunación,34821,N
+Alemania,22/11/2022,Asma,Respiratoria,8.98;74.55,36 - 60,Ambos,Terapia,31114,S
+Nigeria,26/08/2024,Tuberculosis,Bacteriana,8.66;93.58,0 - 18,Femenino,Terapia,28533,N
+Reino Unido,19/09/2023,Hepatitis,Viral,8.53;56.01,19 - 35,Femenino,Medicación,2271,N
+Sudáfrica,05/04/2020,Cólera,Bacteriana,8.41;96.55,36 - 60,Masculino,Vacunación,32553,S
+México,14/01/2023,VIH/SIDA,Cardiovascular,8.31;67.25,61+,Masculino,Cirugía,36793,N
+Brasil,29/04/2022,Lepra,Metabólica,8.28;93.05,36 - 60,Femenino,Medicación,44941,S
+Francia,17/04/2022,Rabia,Cardiovascular,8.28;71.56,19 - 35,Femenino,Terapia,34969,S
+India,24/04/2023,Rabia,Viral,8.1;77.31,36 - 60,Femenino,Medicación,24890,S
+Sudáfrica,27/02/2022,Rabia,Neurológica,7.97;86.02,19 - 35,Masculino,Medicación,17028,S
+Arabia Saudita,14/05/2024,Hepatitis,Crónica,7.97;67.78,0 - 18,Femenino,Medicación,49078,S
+Australia,14/08/2020,Poliomielitis,Parasitaria,7.82;68.74,0 - 18,Femenino,Medicación,31283,N
+EEUU,04/05/2021,Malaria,Viral,7.6;71.14,0 - 18,Masculino,Terapia,29415,N
+Arabia Saudita,18/09/2021,Dengue,Viral,7.54;80.49,36 - 60,Femenino,Terapia,49695,S
+Korea del Sur,30/01/2020,COVID-19,Neurológica,7.49;84.08,61+,Femenino,Cirugía,43955,S
+Argentina,29/06/2020,Malaria,Genética,7.39;88.54,61+,Masculino,Cirugía,48454,N
+Nigeria,27/04/2020,Zika,Metabólica,7.37;58.09,19 - 35,Masculino,Terapia,36235,N
+México,15/05/2022,Hipertensión,Autoinmune,7.12;70.1,0 - 18,Femenino,Medicación,12292,N
+China,02/12/2024,COVID-19,Parasitaria,7.04;63.41,19 - 35,Femenino,Cirugía,40194,N
+Japón,04/02/2021,Sarampión,Parasitaria,6.85;92.42,61+,Femenino,Terapia,27156,N
+Korea del Sur,10/05/2021,Hipertensión,Autoinmune,6.84;90.83,61+,Ambos,Cirugía,29910,S
+Japón,10/11/2023,Hepatitis,Crónica,6.77;74.07,61+,Ambos,Terapia,21843,S
+Japón,17/11/2021,Hipertensión,Parasitaria,6.42;92.91,61+,Masculino,Vacunación,18684,S
+Arabia Saudita,27/07/2022,Tuberculosis,Viral,6.36;84.74,0 - 18,Masculino,Medicación,5037,N
+Rusia,11/02/2020,Dengue,Cardiovascular,6.26;59.11,0 - 18,Masculino,Vacunación,15686,N
+Sudáfrica,28/01/2022,COVID-19,Neurológica,6.1;56.57,35+,Ambos,Terapia,23003,S
+Turquía,08/04/2020,Rabia,Genética,6;66.2,61+,Masculino,Cirugía,14630,S
+Francia,04/12/2020,COVID-19,Viral,5.76;56.68,61+,Femenino,Vacunación,21400,S
+Indonesia,03/03/2023,Asma,Infecciosa,5.49;79.04,19 - 35,Femenino,Terapia,42702,N
+India,20/09/2021,COVID-19,Crónica,5.31;50.38,0 - 18,Ambos,Medicación,43090,S
+Turquía,23/05/2022,Sarampión,Parasitaria,4.95;93.72,35+,Femenino,Medicación,27738,N
+Argentina,23/09/2024,Tuberculosis,Bacteriana,4.75;77.1,61+,Masculino,Medicación,45235,S
+Italia,18/03/2024,Rabia,Neurológica,4.57;92.89,0 - 18,Masculino,Terapia,49917,N
+Canadá,17/01/2021,Hepatitis,Autoinmune,4.36;88.07,19 - 35,Femenino,Cirugía,1291,S
+Italia,03/10/2022,Tuberculosis,Parasitaria,4.33;96.62,61+,Masculino,Terapia,19192,N
+Indonesia,07/10/2022,Poliomielitis,Genética,4.23;58.49,35+,Ambos,Vacunación,30487,N
+China,28/02/2023,Cólera,Genética,4.22;95.18,0 - 18,Femenino,Terapia,26451,S
+India,08/05/2022,COVID-19,Respiratoria,4.15;72.05,61+,Ambos,Vacunación,29438,N
+Nigeria,03/09/2020,Gripe,Crónica,4.07;60.46,0 - 18,Ambos,Terapia,47873,S
+Brasil,31/12/2024,Malaria,Infecciosa,3.94;95.59,19 - 35,Femenino,Vacunación,16965,S
+Reino Unido,30/08/2022,Diabetes,Crónica,3.93;70.78,0 - 18,Femenino,Cirugía,40879,N
+Japón,12/07/2021,Zika,Parasitaria,3.73;74.15,18+,Masculino,Vacunación,39923,N
+Australia,15/11/2020,Hepatitis,Autoinmune,3.65;72.72,36 - 60,Femenino,Vacunación,15400,S
+Argentina,23/09/2021,VIH/SIDA,Infecciosa,3.6;94.1,19 - 35,Masculino,Terapia,11528,S
+Arabia Saudita,19/04/2020,Tuberculosis,Genética,3.51;83.67,61+,Masculino,Medicación,22288,N
+Rusia,01/03/2020,Enfermedad de Parkinson,Genética,3.03;58.68,20+,Femenino,Terapia,8541,N
+Indonesia,19/03/2022,Diabetes,Cardiovascular,2.96;62.18,0 - 18,Ambos,Terapia,3339,S
+Nigeria,13/06/2020,Rabia,Infecciosa,2.47;93.92,61+,Femenino,Vacunación,5031,N
+México,09/10/2022,VIH/SIDA,Neurológica,2.26;70.56,19 - 35,Femenino,Terapia,40571,S
+Alemania,27/02/2020,Poliomielitis,Cardiovascular,2.21;97.51,61+,Masculino,Terapia,19820,S
+Argentina,30/10/2020,Asma,Bacteriana,2.14;66.39,19 - 35,Masculino,Medicación,423,S
+Indonesia,07/12/2023,Lepra,Neurológica,2.12;84.78,36 - 60,Masculino,Medicación,47932,N
+Indonesia,20/11/2020,COVID-19,Infecciosa,1.92;66.03,61+,Masculino,Medicación,18629,N
+Italia,25/07/2022,Dengue,Crónica,1.88;52.75,61+,Masculino,Medicación,24432,S
+Nigeria,15/04/2021,Asma,Parasitaria,1.66;55.55,36 - 60,Masculino,Vacunación,36863,S
+Nigeria,23/02/2021,Asma,Neurológica,1.57;85.97,61+,Ambos,Cirugía,5858,N
+Italia,26/06/2023,Cáncer,Viral,1.5;78.99,0 - 18,Ambos,Terapia,44480,S
+Nigeria,08/07/2022,Poliomielitis,Genética,1.13;89.4,36 - 60,Femenino,Terapia,34758,N
+Nigeria,19/04/2024,Dengue,Parasitaria,1.06;73.13,36 - 60,Masculino,Terapia,17819,S
+Nigeria,17/09/2024,Cólera,Infecciosa,0.95;55.75,61+,Ambos,Vacunación,1332,N
+México,13/07/2022,Cáncer,Genética,0.76;79.31,61+,Masculino,Terapia,20384,N
+EEUU,21/06/2020,Dengue,Infecciosa,0.75;91.74,61+,Ambos,Cirugía,23575,N
+India,07/02/2020,Diabetes,Respiratoria,0.69;77.33,61+,Ambos,Cirugía,11885,N
+México,10/09/2021,Cólera,Infecciosa,0.68;65.61,0 - 18,Masculino,Vacunación,45775,S
+Italia,18/04/2024,Zika,Parasitaria,0.67;97.41,19 - 35,Masculino,Medicación,40121,S
+Japón,03/06/2024,Enfermedad de Parkinson,Crónica,0.61;51.81,18+,Ambos,Medicación,40628,N
+Nigeria,01/10/2020,Gripe,Neurológica,0.52;96.33,36 - 60,Ambos,Medicación,45520,N
+Arabia Saudita,27/03/2023,Zika,Neurológica,0.49;70.78,0 - 18,Femenino,Medicación,11424,S
+Turquía,22/03/2023,Poliomielitis,Crónica,0.39;79.63,61+,Femenino,Cirugía,18131,N
+Turquía,19/04/2021,Zika,Bacteriana,0.38;71.84,61+,Femenino,Medicación,47020,S
+México,10/12/2023,Asma,Crónica,0.31;53.44,0 - 18,Ambos,Cirugía,18295,S
+Nigeria,10/06/2024,Gripe,Cardiovascular,9.91;62.48,36 - 60,Femenino,Vacunación,31214,N
+Nigeria,11/06/2022,Asma,Bacteriana,9.83;71.15,19 - 35,Ambos,Vacunación,13204,N
+Japón,28/03/2022,VIH/SIDA,Bacteriana,9.8;51.96,19 - 35,Femenino,Cirugía,24569,N
+Italia,14/04/2021,Rabia,Crónica,9.76;61.18,0 - 18,Femenino,Terapia,6709,N
+Alemania,20/08/2021,Tuberculosis,Infecciosa,9.53;79.92,35+,Femenino,Vacunación,23283,S
+Japón,26/08/2020,Zika,Genética,9.43;76.9,0 - 18,Masculino,Medicación,27383,N
+Reino Unido,21/11/2021,Poliomielitis,Autoinmune,9.42;84.07,61+,Masculino,Terapia,38388,S
+Australia,26/03/2020,Cáncer,Respiratoria,9.35;95.96,61+,Masculino,Terapia,40495,N
+Australia,02/05/2023,Zika,Metabólica,9.33;74.53,0 - 18,Ambos,Terapia,13342,S
+Japón,20/08/2023,Gripe,Cardiovascular,9.27;60.11,0 - 18,Femenino,Medicación,26352,N
+Korea del Sur,18/04/2022,VIH/SIDA,Crónica,9.2;66.81,19 - 35,Ambos,Medicación,1862,S
+Australia,22/05/2020,VIH/SIDA,Metabólica,9.08;67.05,0 - 18,Masculino,Cirugía,18755,N
+Rusia,01/09/2022,Dengue,Genética,9.05;80,0 - 18,Masculino,Medicación,8765,S
+Argentina,24/09/2021,Enfermedad de Alzheimer,Viral,8.92;75.72,61+,Femenino,Medicación,32642,N
+Alemania,08/12/2021,Zika,Viral,8.79;63.3,19 - 35,Ambos,Medicación,26070,N
+Alemania,02/05/2020,Enfermedad de Parkinson,Viral,8.43;58.82,19 - 35,Ambos,Vacunación,27528,N
+Nigeria,09/01/2024,Asma,Viral,8.28;87.07,35+,Ambos,Medicación,49030,N
+Nigeria,10/04/2022,Enfermedad de Alzheimer,Metabólica,8.04;65.19,0 - 18,Femenino,Medicación,48270,S
+Turquía,09/04/2021,Lepra,Infecciosa,8;94.77,61+,Masculino,Terapia,7689,S
+Argentina,03/01/2021,Enfermedad de Alzheimer,Parasitaria,7.87;96.27,19 - 35,Ambos,Medicación,14834,N
+Argentina,22/05/2024,Ébola,Neurológica,7.45;70.07,36 - 60,Masculino,Medicación,9534,N
+Reino Unido,10/07/2022,Poliomielitis,Viral,7.36;92.92,61+,Masculino,Medicación,27983,S
+Turquía,17/02/2023,Malaria,Viral,7.34;85.75,19 - 35,Femenino,Medicación,40222,S
+Indonesia,18/09/2024,Asma,Genética,7.24;57.94,61+,Masculino,Terapia,47202,N
+Turquía,13/05/2020,Gripe,Genética,7.15;97.34,36 - 60,Ambos,Vacunación,12695,N
+Australia,26/02/2022,Ébola,Neurológica,6.33;72.77,0 - 18,Ambos,Terapia,17189,N
+Arabia Saudita,28/09/2024,Hipertensión,Viral,6.22;98.84,0 - 18,Femenino,Vacunación,20114,S
+México,30/09/2022,Tuberculosis,Parasitaria,6.13;96.36,61+,Femenino,Cirugía,6081,S
+Australia,20/10/2020,Gripe,Neurológica,5.93;65.69,0 - 18,Femenino,Cirugía,7375,S
+Australia,05/03/2023,Sarampión,Viral,5.69;82.93,0 - 18,Femenino,Terapia,44034,S
+Alemania,08/02/2023,Malaria,Crónica,5.48;65.14,19 - 35,Masculino,Terapia,7097,N
+Brasil,30/10/2022,Enfermedad de Parkinson,Infecciosa,5.4;63.96,61+,Masculino,Terapia,43383,S
+India,15/01/2020,Tuberculosis,Infecciosa,5.01;60.66,61+,Masculino,Vacunación,20087,N
+Indonesia,23/08/2023,Dengue,Genética,4.96;98.18,61+,Ambos,Cirugía,7673,S
+Brasil,14/01/2022,Sarampión,Bacteriana,4.9;85.14,61+,Masculino,Terapia,42058,S
+Korea del Sur,17/01/2021,VIH/SIDA,Metabólica,4.71;78.45,18+,Femenino,Medicación,11565,S
+China,04/12/2024,Enfermedad de Alzheimer,Metabólica,4.25;81.29,61+,Ambos,Cirugía,2431,N
+Francia,25/06/2021,Lepra,Neurológica,4.09;76.85,0 - 18,Femenino,Vacunación,23291,N
+Australia,23/09/2024,Malaria,Metabólica,4.08;70.2,0 - 18,Ambos,Cirugía,42073,N
+EEUU,21/04/2023,Gripe,Bacteriana,3.98;74.97,36 - 60,Masculino,Cirugía,37781,N
+Arabia Saudita,05/08/2020,Malaria,Bacteriana,3.94;84.6,0 - 18,Masculino,Terapia,48366,N
+Francia,08/02/2020,Diabetes,Parasitaria,3.94;54.53,19 - 35,Ambos,Vacunación,9280,S
+Canadá,14/11/2021,Malaria,Neurológica,3.15;62.04,0 - 18,Femenino,Terapia,15022,N
+Francia,14/08/2021,Hipertensión,Infecciosa,3.06;93.78,18+,Ambos,Vacunación,38122,S
+Argentina,08/09/2024,Enfermedad de Alzheimer,Metabólica,2.74;86.77,61+,Femenino,Vacunación,3507,S
+EEUU,27/04/2020,COVID-19,Viral,2.58;63.31,36 - 60,Masculino,Vacunación,37236,N
+Japón,30/08/2022,Tuberculosis,Neurológica,2.5;86.13,0 - 18,Ambos,Cirugía,49577,S
+Arabia Saudita,15/05/2021,Dengue,Bacteriana,2.45;86.17,36 - 60,Ambos,Terapia,24976,S
+Japón,31/08/2020,Enfermedad de Alzheimer,Parasitaria,2.35;97.59,0 - 18,Femenino,Terapia,11046,S
+China,02/03/2023,Ébola,Parasitaria,2.35;60.11,0 - 18,Masculino,Vacunación,1820,S
+Sudáfrica,14/08/2022,Ébola,Infecciosa,2.11;52.32,19 - 35,Masculino,Terapia,11377,N
+Turquía,03/05/2022,Cólera,Infecciosa,2.09;98.08,61+,Masculino,Vacunación,48674,S
+Italia,07/01/2024,Dengue,Viral,2.04;68.25,0 - 18,Ambos,Terapia,44025,S
+Indonesia,20/09/2024,Malaria,Respiratoria,1.8;97.09,36 - 60,Masculino,Medicación,47509,N
+Turquía,21/01/2020,Poliomielitis,Parasitaria,1.62;88.68,19 - 35,Ambos,Terapia,29222,S
+México,15/05/2022,Lepra,Respiratoria,1.59;78.58,19 - 35,Masculino,Cirugía,36924,N
+Francia,17/09/2022,COVID-19,Metabólica,1.5;83.43,36 - 60,Masculino,Medicación,23787,S
+Reino Unido,28/02/2021,Poliomielitis,Infecciosa,1.43;58.95,35+,Ambos,Vacunación,32025,N
+Turquía,21/09/2020,COVID-19,Autoinmune,1.38;73.42,19 - 35,Masculino,Cirugía,33811,N
+China,08/06/2022,Hipertensión,Respiratoria,1.35;71.51,36 - 60,Ambos,Medicación,22940,S
+Australia,28/02/2020,Hepatitis,Infecciosa,1.14;77.93,0 - 18,Femenino,Medicación,24548,S
+Brasil,01/05/2022,Hepatitis,Autoinmune,0.99;79.86,61+,Ambos,Medicación,2671,S
+Australia,24/08/2021,Enfermedad de Alzheimer,Parasitaria,0.96;66.23,0 - 18,Masculino,Medicación,30148,N
+Indonesia,18/11/2020,Dengue,Viral,0.95;82.65,19 - 35,Femenino,Medicación,32155,N
+Nigeria,22/04/2020,Rabia,Respiratoria,0.86;56.2,61+,Masculino,Terapia,803,N
+Argentina,17/02/2023,Zika,Autoinmune,0.85;69.25,19 - 35,Ambos,Vacunación,7700,S
+Argentina,21/04/2020,Zika,Metabólica,0.76;95.74,19 - 35,Masculino,Medicación,32604,S
+Italia,14/08/2021,Tuberculosis,Parasitaria,0.58;73.63,19 - 35,Femenino,Vacunación,7479,S
+Italia,12/12/2021,Asma,Genética,0.36;92.6,61+,Femenino,Terapia,8752,N
+China,05/07/2022,Enfermedad de Alzheimer,Cardiovascular,0.33;50.65,0 - 18,Femenino,Medicación,18752,S
+EEUU,03/02/2021,Malaria,Cardiovascular,0.27;72.16,19 - 35,Masculino,Terapia,17487,S
+Alemania,14/06/2021,Malaria,Parasitaria,0.27;71.17,19 - 35,Masculino,Cirugía,21701,S
+Turquía,22/07/2024,Cólera,Genética,0.26;59.84,0 - 18,Femenino,Terapia,3329,S
+Argentina,23/08/2020,Malaria,Crónica,0.2;70.54,19 - 35,Ambos,Cirugía,35748,N
+Arabia Saudita,05/06/2022,Rabia,Neurológica,9.93;95.88,0 - 18,Masculino,Vacunación,4675,S
+Argentina,20/10/2024,Ébola,Neurológica,9.56;60.13,61+,Femenino,Medicación,4649,N
+Argentina,11/08/2024,Poliomielitis,Metabólica,9.48;65.09,36 - 60,Masculino,Vacunación,31138,N
+Arabia Saudita,02/09/2023,VIH/SIDA,Autoinmune,9.45;70.78,36 - 60,Ambos,Terapia,49270,S
+Francia,21/02/2021,Enfermedad de Parkinson,Crónica,9.41;76.64,19 - 35,Masculino,Terapia,28546,S
+Arabia Saudita,12/01/2020,Sarampión,Infecciosa,9.14;75.3,0 - 18,Ambos,Cirugía,11412,S
+India,27/07/2023,Asma,Genética,8.75;56.9,0 - 18,Femenino,Terapia,30050,S
+India,07/08/2021,Rabia,Cardiovascular,8.7;73.56,35+,Femenino,Cirugía,4303,N
+México,04/05/2022,Sarampión,Metabólica,8.68;78.29,0 - 18,Ambos,Vacunación,21596,N
+Canadá,21/05/2024,Cólera,Bacteriana,8.65;87.6,19 - 35,Femenino,Terapia,27893,S
+EEUU,07/03/2020,Dengue,Metabólica,8.59;87.63,61+,Femenino,Medicación,22979,N
+Argentina,16/06/2020,Zika,Respiratoria,7.96;72.21,61+,Ambos,Medicación,16521,N
+Brasil,12/04/2022,Rabia,Neurológica,7.79;81.37,36 - 60,Femenino,Medicación,38864,N
+Korea del Sur,02/06/2024,VIH/SIDA,Neurológica,7.78;62.7,0 - 18,Femenino,Vacunación,24572,N
+Nigeria,22/02/2022,VIH/SIDA,Cardiovascular,7.68;92.35,61+,Masculino,Cirugía,42726,N
+Reino Unido,15/06/2023,Malaria,Infecciosa,7.6;98.49,0 - 18,Femenino,Terapia,26232,N
+Arabia Saudita,18/01/2020,COVID-19,Cardiovascular,7.48;93.62,36 - 60,Ambos,Vacunación,22801,S
+Nigeria,15/01/2023,Hepatitis,Metabólica,7.45;98.16,0 - 18,Femenino,Cirugía,32503,N
+Reino Unido,21/06/2023,Cólera,Cardiovascular,7.38;87.13,35+,Masculino,Cirugía,13460,S
+Australia,30/01/2024,VIH/SIDA,Bacteriana,7.35;79.03,0 - 18,Femenino,Terapia,33671,N
+India,24/02/2023,Poliomielitis,Bacteriana,7.29;79.22,0 - 18,Ambos,Vacunación,17149,S
+Reino Unido,13/07/2024,Zika,Viral,7.28;87.73,61+,Masculino,Vacunación,6569,S
+Indonesia,11/03/2020,Enfermedad de Parkinson,Metabólica,7.19;90.46,0 - 18,Ambos,Terapia,34748,N
+Arabia Saudita,21/04/2020,VIH/SIDA,Autoinmune,7.12;86.3,20+,Femenino,Terapia,39208,S
+Reino Unido,12/06/2020,Ébola,Crónica,7;56.29,36 - 60,Femenino,Medicación,5404,S
+Rusia,06/07/2022,COVID-19,Metabólica,6.48;88.5,61+,Masculino,Terapia,8219,N
+Reino Unido,22/03/2024,COVID-19,Viral,6.47;82.1,19 - 35,Femenino,Terapia,34653,N
+Turquía,16/07/2020,Rabia,Respiratoria,6.23;96.98,19 - 35,Femenino,Vacunación,7518,S
+Turquía,21/06/2021,Asma,Parasitaria,6.19;98.33,35+,Ambos,Terapia,40346,N
+Korea del Sur,18/03/2024,Diabetes,Cardiovascular,6.03;57.07,19 - 35,Femenino,Cirugía,21017,S
+Rusia,14/09/2024,Lepra,Metabólica,5.91;76.48,61+,Femenino,Cirugía,43831,N
+China,10/03/2021,VIH/SIDA,Genética,5.67;50.09,19 - 35,Femenino,Terapia,43495,N
+Canadá,21/03/2020,Poliomielitis,Infecciosa,5.31;67.28,0 - 18,Femenino,Medicación,30727,N
+Australia,10/06/2020,Enfermedad de Alzheimer,Cardiovascular,5.21;56.65,0 - 18,Ambos,Medicación,475,S
+Brasil,11/09/2024,COVID-19,Autoinmune,5.17;89.25,0 - 18,Femenino,Terapia,36616,N
+Canadá,01/01/2023,Gripe,Infecciosa,5.12;93.24,19 - 35,Ambos,Medicación,1547,N
+Australia,25/02/2021,Ébola,Respiratoria,5.1;68.16,0 - 18,Ambos,Medicación,41009,N
+Nigeria,29/06/2022,Hepatitis,Metabólica,4.55;77.95,61+,Femenino,Cirugía,41357,N
+Sudáfrica,16/08/2022,VIH/SIDA,Respiratoria,4.21;58.23,36 - 60,Femenino,Cirugía,6303,S
+Arabia Saudita,17/07/2023,Lepra,Infecciosa,4.15;85.55,61+,Ambos,Medicación,34904,N
+Brasil,01/11/2021,Enfermedad de Alzheimer,Respiratoria,4.06;94.03,19 - 35,Femenino,Cirugía,6577,S
+México,16/05/2021,Cólera,Viral,4.04;80.04,35+,Masculino,Cirugía,36671,N
+Brasil,23/03/2024,Dengue,Bacteriana,3.92;72.29,19 - 35,Femenino,Cirugía,587,N
+EEUU,30/12/2021,Cáncer,Cardiovascular,3.48;54.81,61+,Femenino,Terapia,28585,S
+Arabia Saudita,23/02/2024,COVID-19,Viral,3.47;76.46,19 - 35,Femenino,Cirugía,14219,S
+India,28/01/2024,Ébola,Neurológica,3.41;94.17,19 - 35,Femenino,Vacunación,37041,S
+Korea del Sur,04/07/2021,VIH/SIDA,Metabólica,3.18;66.77,19 - 35,Masculino,Medicación,15948,S
+China,16/04/2022,Tuberculosis,Respiratoria,3.15;53.68,36 - 60,Masculino,Vacunación,18177,S
+Australia,21/03/2022,Cólera,Respiratoria,3;62.13,61+,Femenino,Vacunación,26835,S
+Japón,22/09/2023,Hepatitis,Neurológica,2.84;93.77,19 - 35,Ambos,Cirugía,19634,S
+México,17/12/2023,Poliomielitis,Viral,2.69;78.09,36 - 60,Ambos,Vacunación,3515,S
+China,27/10/2020,Asma,Parasitaria,2.67;57.84,36 - 60,Femenino,Medicación,7909,S
+Nigeria,16/06/2021,Enfermedad de Alzheimer,Bacteriana,2.65;54.52,0 - 18,Masculino,Cirugía,24586,S
+India,09/07/2023,Cólera,Viral,2.61;51.79,36 - 60,Ambos,Medicación,47031,S
+Argentina,06/07/2020,Asma,Viral,2.48;86.93,61+,Ambos,Medicación,13670,N
+EEUU,09/05/2022,Zika,Neurológica,2.42;91.92,36 - 60,Masculino,Medicación,30098,N
+Australia,03/01/2023,Enfermedad de Alzheimer,Metabólica,1.76;69.95,61+,Femenino,Medicación,46310,S
+Brasil,15/02/2024,Tuberculosis,Parasitaria,1.71;58.57,0 - 18,Masculino,Cirugía,6808,N
+Sudáfrica,12/04/2022,Hipertensión,Infecciosa,1.53;84.64,18+,Ambos,Terapia,44554,N
+Canadá,02/11/2022,Ébola,Metabólica,1.32;94.57,36 - 60,Femenino,Cirugía,43176,S
+Australia,21/12/2023,Diabetes,Viral,1.28;63.6,0 - 18,Masculino,Vacunación,571,S
+Sudáfrica,04/12/2022,Enfermedad de Alzheimer,Respiratoria,1.12;57.26,36 - 60,Masculino,Terapia,1904,S
+Brasil,02/09/2022,Dengue,Genética,0.78;88.34,61+,Femenino,Medicación,20929,S
+Nigeria,26/05/2023,Rabia,Respiratoria,0.62;89.28,18+,Masculino,Terapia,43043,S
+México,23/09/2024,Dengue,Infecciosa,0.53;52.54,36 - 60,Ambos,Cirugía,33736,S
+Turquía,13/06/2024,Poliomielitis,Respiratoria,0.4;88.42,0 - 18,Femenino,Cirugía,6126,N
+México,09/05/2020,Cólera,Bacteriana,0.23;81.91,36 - 60,Masculino,Cirugía,4175,S
+Indonesia,02/08/2021,Poliomielitis,Viral,9.84;81.27,0 - 18,Femenino,Medicación,29177,N
+Francia,19/07/2020,Gripe,Infecciosa,9.75;82.91,36 - 60,Ambos,Vacunación,3934,N
+Reino Unido,07/03/2022,Enfermedad de Parkinson,Autoinmune,9.6;94.85,36 - 60,Masculino,Vacunación,40429,S
+Brasil,09/08/2021,VIH/SIDA,Autoinmune,9.43;72.7,18+,Ambos,Cirugía,26805,S
+Rusia,21/12/2021,Enfermedad de Parkinson,Bacteriana,9.41;92.46,19 - 35,Femenino,Medicación,40613,N
+China,15/04/2023,Rabia,Cardiovascular,8.61;95.29,61+,Ambos,Vacunación,27218,N
+Argentina,18/06/2022,Diabetes,Autoinmune,8.51;66.41,36 - 60,Masculino,Cirugía,36191,N
+China,27/12/2022,Poliomielitis,Crónica,8.38;72.34,36 - 60,Ambos,Vacunación,646,S
+Francia,05/01/2022,Hipertensión,Cardiovascular,8.34;85.03,0 - 18,Ambos,Terapia,3489,S
+Australia,05/01/2024,Gripe,Infecciosa,8.16;93.99,0 - 18,Femenino,Cirugía,39338,S
+Arabia Saudita,01/06/2022,Zika,Neurológica,7.72;64.21,36 - 60,Ambos,Vacunación,41863,N
+Indonesia,20/03/2022,Asma,Parasitaria,7.57;85.6,61+,Ambos,Vacunación,34482,S
+China,30/06/2022,Sarampión,Metabólica,7.43;57.76,61+,Masculino,Medicación,18567,N
+Australia,27/11/2023,Hepatitis,Crónica,7.12;60.04,61+,Ambos,Cirugía,49537,N
+Canadá,28/09/2021,Tuberculosis,Crónica,7.07;70.5,19 - 35,Ambos,Medicación,17636,S
+Francia,04/04/2024,Hepatitis,Metabólica,7.04;96.47,36 - 60,Ambos,Cirugía,3854,S
+Turquía,03/11/2023,Asma,Metabólica,6.88;80.43,36 - 60,Masculino,Medicación,42097,S
+China,11/11/2020,Enfermedad de Alzheimer,Cardiovascular,6.87;51.76,19 - 35,Masculino,Cirugía,26445,S
+Korea del Sur,28/07/2021,Ébola,Autoinmune,6.83;68.39,35+,Femenino,Terapia,40767,S
+Sudáfrica,24/11/2022,Sarampión,Genética,6.69;71.18,35+,Masculino,Terapia,7839,N
+Alemania,14/05/2022,Malaria,Bacteriana,6.54;75.42,0 - 18,Masculino,Terapia,37751,S
+Argentina,27/08/2024,Hepatitis,Cardiovascular,6.54;65.8,61+,Ambos,Terapia,37159,N
+México,08/01/2022,VIH/SIDA,Metabólica,6.34;89.49,61+,Femenino,Vacunación,30014,N
+China,07/02/2022,Dengue,Autoinmune,5.99;66.69,61+,Masculino,Cirugía,49785,N
+Reino Unido,17/06/2024,Cáncer,Viral,5.87;77.29,35+,Femenino,Medicación,13878,S
+Korea del Sur,07/01/2024,Cólera,Autoinmune,5.55;52.17,0 - 18,Ambos,Terapia,43004,N
+Rusia,31/10/2021,Asma,Crónica,5.49;67.12,19 - 35,Femenino,Medicación,39979,S
+Japón,29/09/2021,Sarampión,Respiratoria,5.43;59.74,61+,Femenino,Medicación,42845,N
+Sudáfrica,15/10/2021,VIH/SIDA,Respiratoria,5.38;70.81,0 - 18,Masculino,Terapia,9897,S
+Brasil,14/03/2022,Zika,Parasitaria,5.23;59.01,19 - 35,Ambos,Medicación,27767,N
+Italia,20/02/2020,Diabetes,Autoinmune,5.1;55.01,61+,Femenino,Medicación,35592,N
+Argentina,23/09/2020,Hipertensión,Crónica,4.94;53.33,61+,Femenino,Terapia,28760,N
+Arabia Saudita,25/03/2024,Asma,Metabólica,4.59;77.74,0 - 18,Ambos,Cirugía,7574,S
+Turquía,05/10/2024,Zika,Autoinmune,4.55;52.63,19 - 35,Masculino,Medicación,17023,N
+China,19/11/2021,Hepatitis,Genética,4.53;83.12,35+,Masculino,Terapia,5254,S
+México,30/10/2021,Tuberculosis,Parasitaria,4.47;80.93,18+,Femenino,Terapia,39456,S
+Alemania,10/04/2020,Asma,Cardiovascular,4.45;93.37,19 - 35,Ambos,Terapia,44406,S
+Indonesia,30/10/2024,Cólera,Respiratoria,4.38;58.44,0 - 18,Femenino,Medicación,45578,S
+México,22/12/2021,Cólera,Genética,4.34;89.08,61+,Femenino,Medicación,35640,N
+Nigeria,24/01/2024,Hipertensión,Parasitaria,4.29;94.31,18+,Femenino,Terapia,18077,S
+Turquía,25/11/2022,Lepra,Viral,3.96;58.86,36 - 60,Masculino,Cirugía,39357,S
+Rusia,15/10/2022,Hipertensión,Crónica,3.51;70.97,0 - 18,Ambos,Terapia,13411,S
+Reino Unido,27/03/2023,Zika,Metabólica,3.04;57.24,36 - 60,Masculino,Medicación,28846,S
+Italia,04/09/2020,Dengue,Autoinmune,2.97;66.42,0 - 18,Femenino,Medicación,37971,N
+Rusia,01/01/2020,Sarampión,Neurológica,2.92;83,0 - 18,Masculino,Terapia,48229,S
+EEUU,13/05/2024,Cólera,Autoinmune,2.81;71.06,19 - 35,Femenino,Cirugía,24865,S
+México,03/06/2021,Zika,Cardiovascular,2.81;52.45,0 - 18,Ambos,Cirugía,9653,N
+Argentina,11/08/2022,Asma,Parasitaria,2.79;61.52,19 - 35,Masculino,Cirugía,4558,N
+Canadá,16/06/2020,COVID-19,Bacteriana,2.22;68.46,36 - 60,Masculino,Terapia,41563,N
+México,11/04/2024,Poliomielitis,Respiratoria,2.2;70.35,0 - 18,Masculino,Terapia,9176,S
+Indonesia,13/09/2023,Enfermedad de Parkinson,Metabólica,2.09;93.48,0 - 18,Femenino,Cirugía,25240,S
+México,25/02/2021,Ébola,Infecciosa,2.02;92.07,61+,Femenino,Vacunación,48024,S
+Italia,28/07/2024,Poliomielitis,Genética,1.99;83.36,20+,Femenino,Cirugía,9670,N
+Sudáfrica,10/07/2024,Enfermedad de Parkinson,Respiratoria,1.86;55.82,36 - 60,Femenino,Terapia,39122,S
+Alemania,11/06/2021,Tuberculosis,Parasitaria,1.78;74.99,0 - 18,Ambos,Terapia,8674,N
+Turquía,12/12/2021,Malaria,Respiratoria,1.19;98.06,36 - 60,Masculino,Vacunación,2426,N
+EEUU,10/03/2024,Asma,Metabólica,0.96;53.34,0 - 18,Ambos,Medicación,36970,N
+China,16/12/2020,Sarampión,Infecciosa,0.79;83.38,61+,Ambos,Vacunación,49397,N
+Korea del Sur,09/08/2021,Lepra,Bacteriana,0.78;94.15,61+,Masculino,Cirugía,226,S
+Francia,25/03/2023,Sarampión,Cardiovascular,0.67;52.25,19 - 35,Ambos,Vacunación,44918,S
+Korea del Sur,03/02/2023,Rabia,Viral,0.46;67.96,19 - 35,Ambos,Cirugía,35064,N
+Turquía,03/11/2024,Ébola,Cardiovascular,0.27;89.16,36 - 60,Femenino,Terapia,27187,N
+Argentina,06/08/2021,Malaria,Cardiovascular,0.12;65.96,0 - 18,Femenino,Medicación,3646,S
+Sudáfrica,05/07/2023,Poliomielitis,Autoinmune,9.99;79.39,19 - 35,Femenino,Medicación,48740,S
+Brasil,05/01/2022,Diabetes,Neurológica,9.82;67.47,0 - 18,Femenino,Medicación,4951,S
+Rusia,07/10/2023,Asma,Crónica,9.42;55.79,61+,Ambos,Terapia,44716,N
+Turquía,06/01/2022,Gripe,Parasitaria,8.83;75.79,0 - 18,Ambos,Vacunación,13946,N
+Brasil,22/08/2021,Malaria,Bacteriana,8.66;97.27,36 - 60,Ambos,Medicación,47336,S
+China,03/09/2024,Tuberculosis,Cardiovascular,8.19;80.73,36 - 60,Femenino,Medicación,48728,N
+Arabia Saudita,19/01/2020,Enfermedad de Alzheimer,Infecciosa,7.81;78.98,61+,Femenino,Terapia,16964,S
+Korea del Sur,23/10/2024,Malaria,Viral,7.77;85.14,36 - 60,Ambos,Vacunación,41566,S
+México,06/11/2021,Hepatitis,Viral,7.75;92.05,0 - 18,Femenino,Vacunación,26853,S
+Australia,30/08/2020,Hipertensión,Respiratoria,7.69;55.68,36 - 60,Ambos,Medicación,35170,S
+México,23/04/2021,Asma,Neurológica,7.5;63.25,0 - 18,Femenino,Vacunación,15697,S
+Australia,10/03/2023,COVID-19,Infecciosa,6.85;72.83,35+,Ambos,Vacunación,174,S
+China,15/01/2020,Hepatitis,Metabólica,6.55;81.04,36 - 60,Femenino,Medicación,16701,S
+Canadá,22/10/2020,Poliomielitis,Infecciosa,6.25;93.52,61+,Masculino,Cirugía,39879,N
+China,22/06/2023,VIH/SIDA,Crónica,6.18;77.35,61+,Masculino,Vacunación,41753,N
+Alemania,03/02/2020,Zika,Respiratoria,6.14;64.56,19 - 35,Masculino,Terapia,44890,N
+EEUU,16/03/2022,Cáncer,Autoinmune,6.12;54.29,61+,Femenino,Terapia,20685,S
+Japón,31/12/2024,Ébola,Metabólica,5.86;83.17,36 - 60,Masculino,Terapia,408,S
+Turquía,23/04/2020,Diabetes,Neurológica,5.13;87.85,61+,Femenino,Cirugía,49496,S
+Canadá,20/12/2024,Lepra,Crónica,5.1;55.64,35+,Ambos,Terapia,29848,S
+Rusia,09/05/2024,COVID-19,Parasitaria,4.95;52.73,0 - 18,Femenino,Medicación,19905,N
+Sudáfrica,24/05/2020,Malaria,Viral,4.77;56.25,61+,Femenino,Vacunación,28325,S
+Sudáfrica,26/10/2020,Diabetes,Infecciosa,4.45;87.55,18+,Femenino,Medicación,19831,S
+Canadá,05/09/2022,Ébola,Metabólica,4.34;76.09,18+,Ambos,Medicación,27343,S
+México,10/11/2022,Enfermedad de Alzheimer,Metabólica,4.3;91.28,36 - 60,Femenino,Cirugía,40582,N
+EEUU,28/11/2023,Poliomielitis,Genética,4;81.5,36 - 60,Masculino,Cirugía,20955,S
+México,06/01/2021,Cólera,Crónica,3.87;82.51,36 - 60,Ambos,Cirugía,3351,N
+Rusia,03/07/2020,Poliomielitis,Infecciosa,3.8;75.47,36 - 60,Masculino,Terapia,27355,N
+Rusia,31/08/2022,COVID-19,Bacteriana,3.52;93.23,36 - 60,Ambos,Cirugía,35507,N
+Rusia,03/10/2021,Poliomielitis,Bacteriana,3.44;56.98,61+,Femenino,Medicación,23706,S
+Italia,19/02/2024,Gripe,Crónica,3.31;75.3,35+,Femenino,Vacunación,4011,S
+México,04/12/2020,Hepatitis,Bacteriana,3.13;77.86,61+,Masculino,Terapia,9625,N
+China,03/11/2024,Cólera,Bacteriana,2.96;72.59,0 - 18,Femenino,Vacunación,16692,S
+Italia,24/12/2021,Tuberculosis,Autoinmune,2.77;66.71,61+,Masculino,Vacunación,28881,S
+Argentina,03/06/2020,Zika,Respiratoria,2.73;77.35,18+,Masculino,Vacunación,36951,S
+Rusia,01/06/2020,Tuberculosis,Viral,2.37;65.06,36 - 60,Femenino,Vacunación,36336,S
+China,12/08/2024,Lepra,Autoinmune,1.91;62.43,0 - 18,Masculino,Terapia,2811,N
+Japón,23/02/2022,Lepra,Respiratoria,1.7;79.91,0 - 18,Masculino,Vacunación,30500,N
+China,10/06/2021,Tuberculosis,Viral,1.54;63.92,18+,Ambos,Vacunación,103,N
+Rusia,15/03/2022,Zika,Parasitaria,1.15;67.82,0 - 18,Masculino,Medicación,43887,S
+Sudáfrica,02/07/2020,Poliomielitis,Infecciosa,0.93;72.67,36 - 60,Masculino,Terapia,13871,S
+Indonesia,06/02/2021,Poliomielitis,Respiratoria,0.87;53.13,36 - 60,Ambos,Medicación,25365,S
+Reino Unido,03/10/2020,Diabetes,Genética,0.54;93.38,18+,Femenino,Vacunación,38743,S
+Alemania,09/07/2022,Dengue,Neurológica,0.5;79.6,0 - 18,Femenino,Medicación,31794,S
+Reino Unido,17/05/2023,Gripe,Parasitaria,0.28;80.28,19 - 35,Ambos,Terapia,40224,N
+Italia,01/01/2024,Diabetes,Infecciosa,9.21;72.43,61+,Masculino,Terapia,23608,N
+China,19/03/2024,Dengue,Bacteriana,8.89;66.52,19 - 35,Femenino,Terapia,40536,S
+Francia,18/05/2024,Zika,Crónica,8.51;72.09,36 - 60,Ambos,Terapia,25283,N
+Argentina,02/08/2021,Malaria,Infecciosa,8.26;79.25,0 - 18,Ambos,Terapia,45814,N
+Reino Unido,02/04/2024,Zika,Infecciosa,8.18;83.72,36 - 60,Masculino,Cirugía,48505,S
+India,04/11/2024,Hipertensión,Autoinmune,8.04;72.37,0 - 18,Masculino,Terapia,49117,S
+Sudáfrica,15/02/2021,Dengue,Viral,7.52;66.83,36 - 60,Femenino,Medicación,39917,S
+Francia,08/11/2024,Lepra,Bacteriana,7.04;50.02,61+,Ambos,Medicación,38998,N
+India,03/11/2022,Dengue,Autoinmune,6.92;84.44,19 - 35,Ambos,Terapia,40256,N
+EEUU,27/07/2021,Hipertensión,Crónica,6.84;53.61,61+,Femenino,Vacunación,26649,S
+Reino Unido,09/10/2024,Enfermedad de Alzheimer,Cardiovascular,6.83;63.11,61+,Ambos,Cirugía,35624,S
+Nigeria,25/12/2024,Enfermedad de Alzheimer,Viral,6.41;64.03,61+,Masculino,Terapia,46298,N
+China,27/02/2020,VIH/SIDA,Genética,6.11;90.98,61+,Ambos,Cirugía,19533,S
+Nigeria,19/01/2021,Malaria,Autoinmune,6;79.06,36 - 60,Masculino,Cirugía,10650,N
+Arabia Saudita,16/05/2023,Rabia,Neurológica,4.83;63.92,19 - 35,Ambos,Cirugía,30812,S
+China,30/11/2021,Tuberculosis,Respiratoria,4.7;59.8,18+,Ambos,Terapia,23040,N
+Reino Unido,16/04/2022,Ébola,Cardiovascular,3.84;76.62,0 - 18,Masculino,Cirugía,14160,N
+Japón,24/10/2020,Diabetes,Bacteriana,3.36;61.85,36 - 60,Ambos,Medicación,48460,S
+Canadá,20/10/2021,Hepatitis,Viral,3.24;81.99,36 - 60,Ambos,Vacunación,33490,N
+Arabia Saudita,19/10/2023,Hipertensión,Neurológica,2.65;72.47,0 - 18,Masculino,Terapia,29977,S
+Canadá,01/10/2020,Rabia,Parasitaria,2.17;72.31,18+,Femenino,Cirugía,6446,N
+Rusia,09/05/2024,Enfermedad de Parkinson,Parasitaria,2.15;83.86,36 - 60,Femenino,Cirugía,22485,N
+EEUU,28/12/2024,Diabetes,Bacteriana,2.1;70.78,61+,Femenino,Vacunación,6225,S
+México,16/11/2024,VIH/SIDA,Parasitaria,2;86.05,19 - 35,Ambos,Medicación,24506,S
+China,29/11/2021,Sarampión,Autoinmune,1.74;66.01,61+,Ambos,Medicación,21093,N
+Nigeria,10/10/2023,Cáncer,Infecciosa,1.53;56.06,0 - 18,Femenino,Medicación,33235,N
+Rusia,27/04/2023,Lepra,Infecciosa,1.21;75.19,0 - 18,Femenino,Cirugía,6445,S
+Nigeria,03/03/2022,Rabia,Parasitaria,0.95;74.11,61+,Femenino,Cirugía,19614,S
+Korea del Sur,27/07/2020,Hipertensión,Neurológica,0.36;71.43,61+,Femenino,Medicación,46882,N
+Alemania,14/09/2023,Hipertensión,Cardiovascular,0.29;83.35,18+,Femenino,Vacunación,876,N
+Alemania,19/04/2023,Tuberculosis,Neurológica,9.34;84.77,19 - 35,Femenino,Cirugía,43217,S
+EEUU,17/03/2021,Poliomielitis,Respiratoria,8.51;97.05,61+,Ambos,Medicación,45472,S
+Japón,04/10/2023,Lepra,Metabólica,8.38;77,61+,Ambos,Vacunación,34164,S
+Reino Unido,04/12/2020,COVID-19,Cardiovascular,7.36;71.09,0 - 18,Ambos,Medicación,13295,N
+EEUU,11/05/2020,Dengue,Metabólica,7.04;58.47,61+,Ambos,Vacunación,810,N
+Nigeria,20/05/2024,Hepatitis,Autoinmune,5.92;62.81,0 - 18,Femenino,Cirugía,13390,S
+Sudáfrica,13/08/2023,Enfermedad de Alzheimer,Bacteriana,5.89;70.99,19 - 35,Femenino,Medicación,14948,S
+Japón,18/08/2023,Tuberculosis,Bacteriana,5.59;68.64,0 - 18,Femenino,Cirugía,31522,N
+Rusia,04/08/2021,Gripe,Parasitaria,5.19;92.08,61+,Masculino,Terapia,32893,N
+Turquía,27/02/2024,Hepatitis,Neurológica,4.57;59.32,35+,Ambos,Cirugía,21928,N
+Alemania,23/02/2023,Sarampión,Bacteriana,4.41;62.18,61+,Ambos,Vacunación,20658,S
+Indonesia,05/05/2020,Ébola,Cardiovascular,4.35;75.07,61+,Ambos,Medicación,17646,N
+México,15/08/2021,Sarampión,Respiratoria,4.25;77.2,19 - 35,Femenino,Vacunación,3589,N
+Argentina,24/05/2024,Rabia,Respiratoria,3.25;90.03,19 - 35,Ambos,Cirugía,12468,N
+Indonesia,16/02/2020,Hipertensión,Autoinmune,3.24;70.85,0 - 18,Femenino,Cirugía,39562,N
+China,19/10/2024,Lepra,Viral,3.01;94.82,35+,Ambos,Vacunación,23168,S
+Italia,11/11/2021,Dengue,Viral,2.5;69.94,61+,Femenino,Medicación,8414,S
+Canadá,02/01/2022,Cólera,Crónica,2.37;88.89,19 - 35,Masculino,Vacunación,42220,S
+Brasil,04/03/2024,Zika,Parasitaria,0.73;96.82,61+,Femenino,Cirugía,24472,N
+EEUU,12/03/2024,Ébola,Genética,0.65;82.33,0 - 18,Ambos,Cirugía,46550,N
+Alemania,07/02/2024,Enfermedad de Parkinson,Cardiovascular,0.57;51.52,61+,Femenino,Vacunación,19712,S
+Turquía,05/08/2020,Enfermedad de Parkinson,Autoinmune,0.52;77.48,18+,Masculino,Cirugía,8610,S
+Turquía,27/07/2024,Zika,Infecciosa,0.11;61.57,19 - 35,Femenino,Cirugía,42740,S
+Francia,18/02/2024,Cólera,Viral,9.26;82.17,0 - 18,Ambos,Vacunación,35947,N
+Sudáfrica,11/05/2022,Asma,Autoinmune,8.87;95.06,36 - 60,Masculino,Cirugía,43220,S
+Reino Unido,29/11/2024,Sarampión,Metabólica,8.86;70.95,19 - 35,Ambos,Cirugía,42553,N
+Italia,14/08/2020,Cólera,Crónica,7.72;92.69,61+,Ambos,Medicación,15618,N
+Turquía,14/08/2024,Ébola,Autoinmune,7.68;54.55,36 - 60,Ambos,Vacunación,28243,N
+México,04/07/2022,Cáncer,Parasitaria,7.48;75,61+,Femenino,Terapia,33382,N
+Francia,18/11/2023,Enfermedad de Parkinson,Genética,6.96;65.57,19 - 35,Femenino,Terapia,48065,S
+Brasil,22/04/2023,Dengue,Respiratoria,6.58;93.63,19 - 35,Femenino,Terapia,3886,S
+Reino Unido,08/03/2020,Hipertensión,Infecciosa,6.41;71.31,36 - 60,Masculino,Medicación,4170,N
+Argentina,14/04/2024,Enfermedad de Alzheimer,Bacteriana,6.37;88.84,61+,Ambos,Cirugía,14511,N
+Korea del Sur,05/03/2020,Gripe,Bacteriana,6.11;91.84,0 - 18,Femenino,Vacunación,3174,N
+Indonesia,02/06/2020,Cáncer,Viral,6.05;58.7,0 - 18,Masculino,Terapia,11717,N
+Turquía,03/03/2024,Enfermedad de Alzheimer,Cardiovascular,5.92;92.7,19 - 35,Femenino,Cirugía,5431,N
+India,07/09/2021,Poliomielitis,Neurológica,5.14;54.23,36 - 60,Ambos,Vacunación,2921,N
+Korea del Sur,29/04/2021,Zika,Neurológica,4.7;73.69,19 - 35,Masculino,Medicación,39757,N
+Canadá,15/05/2023,Ébola,Respiratoria,4.32;80.41,0 - 18,Masculino,Cirugía,33208,N
+México,09/12/2024,Tuberculosis,Respiratoria,3.84;77.71,36 - 60,Femenino,Vacunación,13758,S
+Turquía,12/12/2022,Zika,Viral,2.87;50.1,19 - 35,Ambos,Terapia,31515,N
+Indonesia,01/05/2024,Hipertensión,Respiratoria,2.82;88.54,61+,Femenino,Terapia,24150,N
+Canadá,07/12/2022,Enfermedad de Alzheimer,Parasitaria,2.01;80.63,19 - 35,Femenino,Terapia,25824,S
+Turquía,05/05/2023,VIH/SIDA,Neurológica,1.01;55.85,0 - 18,Ambos,Terapia,41892,N
+Brasil,26/04/2021,VIH/SIDA,Autoinmune,0.2;66.24,0 - 18,Femenino,Terapia,38012,N
+Japón,14/12/2022,Hepatitis,Bacteriana,9.94;76.42,36 - 60,Ambos,Cirugía,6126,N
+Korea del Sur,31/03/2021,Lepra,Bacteriana,9.36;65.9,36 - 60,Femenino,Medicación,24797,N
+Reino Unido,29/03/2023,Dengue,Metabólica,8.81;51.96,36 - 60,Masculino,Vacunación,389,S
+Korea del Sur,12/07/2021,Diabetes,Bacteriana,8.13;92.63,19 - 35,Femenino,Medicación,45590,N
+Alemania,30/07/2022,Cáncer,Metabólica,7.84;60.41,19 - 35,Femenino,Cirugía,49346,S
+Francia,26/09/2022,Cáncer,Viral,7.28;67.57,0 - 18,Ambos,Medicación,2601,N
+Alemania,08/07/2022,Diabetes,Autoinmune,7.23;51.32,20+,Femenino,Cirugía,39341,N
+Japón,03/09/2023,Rabia,Autoinmune,7.07;84.02,19 - 35,Masculino,Terapia,6965,S
+China,26/01/2024,Rabia,Viral,4.32;50.73,36 - 60,Ambos,Terapia,20726,S
+China,07/02/2020,Poliomielitis,Crónica,3.56;98.61,35+,Ambos,Medicación,35752,S
+Alemania,08/03/2024,COVID-19,Autoinmune,2.52;66.75,19 - 35,Ambos,Medicación,40299,N
+Reino Unido,08/04/2020,Dengue,Parasitaria,1.77;67.77,35+,Masculino,Medicación,17985,N
+Francia,26/06/2021,Ébola,Viral,1.69;90.96,0 - 18,Masculino,Medicación,17619,N
+Turquía,01/03/2020,Enfermedad de Parkinson,Metabólica,1.63;85.29,19 - 35,Femenino,Cirugía,22707,S
+Francia,24/05/2020,Hipertensión,Infecciosa,1.52;56.28,61+,Masculino,Cirugía,36986,S
+Canadá,25/04/2023,Zika,Parasitaria,1.38;66.73,61+,Masculino,Vacunación,10486,N
+Japón,18/07/2022,Zika,Autoinmune,1.13;95.04,61+,Ambos,Terapia,26711,N
+Italia,20/10/2020,Hipertensión,Infecciosa,1.02;71.32,0 - 18,Femenino,Cirugía,22445,N
+Argentina,30/12/2021,Hipertensión,Autoinmune,1.01;50.48,0 - 18,Masculino,Vacunación,8377,N
+Canadá,28/04/2023,Hepatitis,Parasitaria,0.94;55.81,0 - 18,Femenino,Terapia,3675,N
+Brasil,04/04/2023,Hepatitis,Respiratoria,9.39;96.8,0 - 18,Masculino,Cirugía,13361,N
+Arabia Saudita,27/01/2020,Sarampión,Respiratoria,8.54;70.04,61+,Ambos,Terapia,36905,N
+Indonesia,13/03/2023,COVID-19,Autoinmune,7.26;54.65,0 - 18,Masculino,Vacunación,2507,S
+Reino Unido,13/04/2021,Hipertensión,Metabólica,6.39;83.11,61+,Femenino,Medicación,25711,N
+Canadá,30/12/2024,Sarampión,Viral,6.35;54.13,61+,Ambos,Vacunación,35299,N
+Nigeria,05/08/2023,Asma,Viral,6.17;65.71,36 - 60,Ambos,Medicación,7525,N
+Italia,28/02/2020,Poliomielitis,Infecciosa,6.12;57.1,61+,Femenino,Cirugía,5763,S
+Rusia,15/01/2022,Hepatitis,Cardiovascular,5.82;78.61,19 - 35,Ambos,Cirugía,2154,S
+Alemania,18/10/2021,Dengue,Metabólica,4.28;75.76,36 - 60,Ambos,Medicación,30206,N
+Rusia,01/10/2024,Tuberculosis,Cardiovascular,3.04;67.94,19 - 35,Femenino,Cirugía,30158,N
+Reino Unido,03/06/2024,Tuberculosis,Genética,1.05;75.78,19 - 35,Masculino,Terapia,46010,S
+Korea del Sur,27/02/2022,Dengue,Autoinmune,0.83;62.74,36 - 60,Femenino,Cirugía,13168,S
+Reino Unido,24/11/2023,Dengue,Genética,0.72;75.92,61+,Masculino,Vacunación,6491,N
+EEUU,12/06/2020,Cólera,Metabólica,7.22;77.9,19 - 35,Ambos,Medicación,28095,S
+Australia,07/05/2021,Dengue,Crónica,6.36;71.9,36 - 60,Ambos,Medicación,24242,N
+India,29/04/2024,Lepra,Parasitaria,5.46;75.47,61+,Ambos,Vacunación,1156,S
+Alemania,25/12/2020,Hipertensión,Crónica,5.22;54.49,35+,Ambos,Cirugía,8677,N
+China,01/03/2021,Poliomielitis,Viral,3.31;58.26,61+,Ambos,Medicación,14385,N
+Reino Unido,20/06/2023,Rabia,Parasitaria,2.65;75.89,61+,Masculino,Vacunación,826,S
+Japón,28/04/2023,Cáncer,Autoinmune,1.96;84.97,0 - 18,Femenino,Cirugía,44123,S
+Argentina,27/04/2021,Cáncer,Neurológica,1.75;85.32,36 - 60,Femenino,Vacunación,34185,N
+Canadá,08/02/2021,Hepatitis,Viral,1.44;55.86,19 - 35,Masculino,Vacunación,1713,S
+Canadá,17/09/2020,Gripe,Parasitaria,6.91;61.65,61+,Masculino,Medicación,2620,N
+Canadá,10/11/2020,Enfermedad de Parkinson,Viral,6.04;77.3,19 - 35,Femenino,Terapia,16644,S
+Arabia Saudita,22/01/2021,Ébola,Autoinmune,5.4;76.57,36 - 60,Ambos,Cirugía,27180,S
+Alemania,29/10/2023,Cólera,Autoinmune,4.3;83.06,61+,Masculino,Medicación,43685,S
+Arabia Saudita,11/03/2021,Cólera,Autoinmune,3.92;84.9,36 - 60,Femenino,Terapia,31653,S
+Australia,01/08/2024,Dengue,Crónica,3.89;86.5,61+,Ambos,Medicación,13416,S
+Sudáfrica,27/03/2022,Gripe,Genética,8.05;86.3,0 - 18,Femenino,Medicación,6470,N
+Australia,10/09/2020,Tuberculosis,Neurológica,6.56;53.79,36 - 60,Femenino,Terapia,36041,S
+Sudáfrica,06/06/2023,Ébola,Cardiovascular,2.81;84.01,0 - 18,Ambos,Medicación,43520,S
+Arabia Saudita,18/09/2021,Zika,Respiratoria,2.34;88.24,19 - 35,Femenino,Terapia,6894,N
+Francia,27/06/2021,Poliomielitis,Parasitaria,1.37;58.91,19 - 35,Masculino,Vacunación,38246,N
+Sudáfrica,12/11/2022,Cáncer,Cardiovascular,8.8;51.04,61+,Ambos,Medicación,33875,S
+China,15/11/2020,Enfermedad de Parkinson,Neurológica,7.83;97.68,61+,Masculino,Terapia,12152,S
+China,28/03/2024,Tuberculosis,Neurológica,5.75;75.22,61+,Femenino,Medicación,5745,S
+Sudáfrica,16/10/2022,Rabia,Cardiovascular,2.65;88.01,61+,Femenino,Medicación,18460,N
+Alemania,02/12/2021,Dengue,Crónica,6.81;73.49,35+,Masculino,Medicación,26958,N
+EEUU,03/01/2022,Hipertensión,Bacteriana,4.6;87.38,19 - 35,Ambos,Vacunación,20322,N
+Rusia,01/08/2020,Ébola,Cardiovascular,2.75;64.55,35+,Ambos,Cirugía,631,N
+Rusia,21/03/2022,Asma,Cardiovascular,2.67;70.51,19 - 35,Ambos,Vacunación,44749,S
+Francia,17/06/2023,Dengue,Infecciosa,4.92;62.46,61+,Masculino,Terapia,26136,S
+EEUU,05/12/2024,Enfermedad de Parkinson,Bacteriana,3.76;78.7,61+,Femenino,Vacunación,8817,N
+Francia,04/04/2020,Gripe,Parasitaria,9.92;62.34,19 - 35,Masculino,Terapia,10725,N
+Rusia,02/10/2023,Poliomielitis,Neurológica,9.68;57.49,19 - 35,Ambos,Terapia,4811,N
+Arabia Saudita,20/03/2024,Lepra,Genética,5.63;83.08,35+,Ambos,Terapia,22004,S
